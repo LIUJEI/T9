@@ -1,5 +1,5 @@
 {
-  "spider": "./JAR/fan1021.txt;md5;ce37642e140a829d57496a32d8fcc648",
+  "spider": "./JAR/TXOspider.jar",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
@@ -90,84 +90,7 @@
     "api":"csp_AppSK",
     "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsKjLdyU6L2fWAhdkHsMHY7zpKguHeHM9N9Hodw+0VE7gKlHRpfZ+PrvhFHLg==","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"
 },
-{
-    "key": "热播影视",
-    "name": "🎆┣热播┫影视",
-    "type": 3,
-    "api": "csp_AppTT",
-    "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-},
-{
-    "key": "欢视",
-    "name": "🎆┣欢视┫多线",
-    "type": 3,
-    "api": "csp_AppTT",
-    "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
-},
-{
-    "key": "南瓜影视",
-    "name": "🎆┣南瓜┫影视",
-    "type": 3,
-    "api": "csp_NanGua"
-},
-{
-    "key": "可可",
-    "name": "🎆┣可可┫多线",
-    "type": 3,
-    "api": "csp_Kekys"
-},
-{
-    "key": "Lib",
-    "name": "🎆┣立播┫秒播",
-    "type": 3,
-    "api": "csp_Libvio",
-    "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}
-},
-{
-    "key": "糯米",
-    "name": "🎆┣糯米┫秒播",
-    "type": 3,
-    "api": "csp_Nmyswv"
-},
-{
-    "key": "苹果",
-    "name": "🎆┣苹果┫不卡",
-    "type": 3,
-    "api": "csp_LiteApple"
-},
-{
-    "key": "原创",
-    "name": "🎆┣原创┫不卡",
-    "type": 3,
-    "api": "csp_YCyz"
-},
-{
-    "key": "厂长",
-    "name": "🎆┣厂长┫不卡",
-    "type": 3,
-    "api": "csp_NewCz",
-    "ext": "http://www.czzy77.com/"
-},
-{
-    "key": "萌米",
-    "name": "🎆┣萌米┫多线",
-    "type": 3,
-    "api": "csp_AppTT",
-    "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-},
-{
-    "key": "低端",
-    "name": "🎆┣低端┫外剧",
-    "type": 3,
-    "api": "csp_Ddrk"
-},
-{
-    "key": "大米星球",
-    "name": "🎆┣大米┫APP",
-    "type": 3,
-    "api": "csp_AppDaMi",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/spider1021.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3"
-},
+
 {
     "key": "hipy_js_星芽短剧",
     "name": "📛┣星芽┫短劇",
