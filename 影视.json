@@ -10,7 +10,7 @@
     "type": 3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "order_num": 0,
-    "ext": "./TV/荐片[优].js"
+    "ext": "./TV/荐片.js"
 },
 {
     "key": "js-豆瓣",
@@ -125,10 +125,52 @@
 	"ext": "./TV/8号影院.js"
 },
 {
+    "key":"drpy_js_电影先生",
+    "name":"🍥电影☪先生",
+    "type":3,
+    "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
+    "ext":"./TV/电影先生.js"
+},
+{
+    "key":"drpy_js_TVB云播",
+    "name":"🍥影视☪云播",
+    "type":3,
+    "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
+    "ext":"./TV/TVB云播.js"
+},
+{
+    "key":"drpy_js_ddys",
+    "name":"🍥低端☪影视",
+    "type":3,
+    "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
+    "ext":"./TV/ddys.js"
+},
+{
+    "key":"drpy_js_蓝光影院",
+    "name":"🍥蓝光☪影院",
+    "type":3,
+    "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
+    "ext":"./TV/蓝光影院.js"
+},
+{
+    "key":"drpy_js_米爱影视",
+    "name":"🍥米爱☪影视",
+    "type":3,
+    "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
+    "ext":"./TV/米爱影视.js"
+},
+{
+    "key":"drpy_js_骚火电影",
+    "name":"🍥骚火☪电影",
+    "type":3,
+    "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
+    "ext":"./TV/骚火电影.js"
+},
+{
 	"key": "hipy_js_111tv[自动]",
 	"name": "🍥異議☪影院",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/111tv[自动].js"
 },
@@ -136,7 +178,7 @@
 	"key": "hipy_js_耐看",
 	"name": "🍥耐看☪影視",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "../TV/耐看.js"
 },
@@ -144,7 +186,7 @@
 	"key": "hipy_js_天天影视",
 	"name": "🍥天天☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/天天影视.js"
 },
@@ -152,7 +194,7 @@
 	"key": "hipy_js_素白白",
 	"name": "🍥素白☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/素白白.js"
 },
@@ -160,7 +202,7 @@
 	"key": "hipy_js_爱迪影视",
 	"name": "🍥爱迪☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/爱迪影视.js"
 },
@@ -168,31 +210,15 @@
 	"key": "hipy_js_爱看机器人[虫]",
 	"name": "🍥爱看☪机器",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/爱看机器人[虫].js"
 }, 
 {
-	"key": "hipy_js_白嫖者联盟",
-	"name": "🍥白嫖☪联盟",
-	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/白嫖者联盟.js"
-},
-{
-	"key": "hipy_js_暴风资源[资]",
-	"name": "🍥暴风☪资源",
-	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/暴风资源[资].js"
-},
-{
 	"key": "hipy_js_北川影视",
 	"name": "🍥北川☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/北川影视.js"
 },
@@ -200,7 +226,7 @@
 	"key": "hipy_js_畅梦影视[优]",
 	"name": "🍥畅梦☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/畅梦影视[优].js"
 },
@@ -208,7 +234,7 @@
 	"key": "hipy_js_达达猪",
 	"name": "🍥达猪☪影視",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/达达猪.js"
 },
@@ -216,7 +242,7 @@
 	"key": "hipy_js_电影猎手[自动]",
 	"name": "🍥獵手☪電影",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/电影猎手[自动].js"
 },
@@ -224,7 +250,7 @@
 	"key": "hipy_js_电影兔",
 	"name": "🍥影兔☪影視",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/电影兔.js"
 },
@@ -232,7 +258,7 @@
 	"key": "hipy_js_冠建影视",
 	"name": "🍥冠建☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/冠建影视.js"
 },
@@ -240,7 +266,7 @@
 	"key": "hipy_js_APPV2[模板]3",
 	"name": "🍥河狸☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 3,
 	"ext": "./TV/APPV2[模板].js?type=url&params=https://www.heli888.cc"
 },
@@ -248,7 +274,7 @@
 	"key": "hipy_js_APPV2[模板]2",
 	"name": "🍥小马☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 2,
 	"ext": "./TV/APPV2[模板].js?type=url&params=https://mas.szyyds.cn"
 },
@@ -256,7 +282,7 @@
 	"key": "hipy_js_黑木耳资源[资]",
 	"name": "🍥木耳☪资源",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/黑木耳资源[资].js"
 },
@@ -264,7 +290,7 @@
 	"key": "hipy_js_家庭影视",
 	"name": "🍥家庭☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/家庭影视.js"
 },
@@ -272,7 +298,7 @@
 	"key": "hipy_js_可达影视",
 	"name": "🍥可达☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/可达影视.js"
 },
@@ -280,7 +306,7 @@
 	"key": "hipy_js_来看点播[自动]",
 	"name": "🍥来看☪点播",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/来看点播[自动].js"
 },
@@ -288,7 +314,7 @@
 	"key": "hipy_js_蓝光影视",
 	"name": "🍥蓝光☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/蓝光影视.js"
 },
@@ -296,7 +322,7 @@
 	"key": "hipy_js_老王电影[自动]",
 	"name": "🍥老王☪电影",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/老王电影[自动].js"
 },
@@ -304,7 +330,7 @@
 	"key": "hipy_js_墨点影视",
 	"name": "🍥墨点☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/墨点影视.js"
 },
@@ -312,7 +338,7 @@
 	"key": "hipy_js_泥巴影院",
 	"name": "🍥泥巴☪影院",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/泥巴影院.js"
 },
@@ -320,7 +346,7 @@
 	"key": "hipy_js_暖光影视",
 	"name": "🍥暖光☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/暖光影视.js"
 },
@@ -328,7 +354,7 @@
 	"key": "hipy_js_片多多[优]",
 	"name": "🍥多多☪影視",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/片多多[优].js"
 },
@@ -336,7 +362,7 @@
 	"key": "hipy_js_青龙",
 	"name": "🍥青龙☪影視",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/青龙.js"
 },
@@ -344,7 +370,7 @@
 	"key": "hipy_js_全能影视",
 	"name": "🍥全能☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/全能影视.js"
 },
@@ -352,7 +378,7 @@
 	"key": "hipy_js_人人影视",
 	"name": "🍥人人☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/人人影视.js"
 },
@@ -360,7 +386,7 @@
 	"key": "hipy_js_神马影院[自动]",
 	"name": "🍥神马☪影院",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/神马影院[自动].js"
 },
@@ -368,7 +394,7 @@
 	"key": "hipy_js_时光影院",
 	"name": "🍥时光☪影院",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/时光影院.js"
 },
@@ -376,7 +402,7 @@
 	"key": "hipy_js_天启",
 	"name": "🍥天启☪影視",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/天启.js"
 },
@@ -384,7 +410,7 @@
 	"key": "hipy_js_无忧影视",
 	"name": "🍥无忧☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/无忧影视.js"
 },
@@ -392,7 +418,7 @@
 	"key": "hipy_js_想看影院",
 	"name": "🍥想看☪影院",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/想看影院.js"
 },
@@ -400,7 +426,7 @@
 	"key": "hipy_js_星辰CT",
 	"name": "🍥星辰☪影院",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/星辰CT.js"
 },
@@ -408,7 +434,7 @@
 	"key": "hipy_js_星空影院",
 	"name": "🍥星空☪影院",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/星空影院.js"
 },
@@ -416,7 +442,7 @@
 	"key": "hipy_js_妖狐影视[自动]",
 	"name": "🍥妖狐☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/妖狐影视[自动].js"
 },
@@ -513,49 +539,68 @@
 	"ext": "./TV/短剧TV网.js"
 },
 {
-    "key": "hipy_js_网易影像",
-    "name": "🖥网易┃影像",
-    "type": 3,
-    "api": "./TV/dy2.js",
-    "ext": "./TV/网易影像.js"
-},
-{
-	"key": "hipy_js_央视大全[优]",
+    "key": "hipy_js_央视大全",
 	"name": "🖥央视┃大全",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
-	"ext": "./TV/央视大全[优].js"
+	"ext": "./TV/大全央视[央].js"
 },
 {
-	"key": "hipy_js_老白故事[听]",
-	"name": "🎧老白故事",
+	"key": "hipy_js_好趣网",
+	"name": "🖥电视┃好趣网",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/老白故事[听].js"
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
+    "style":{ "type":"oval", "ratio":1.1 },
+    "ext":"./TV/好趣网.js"
 },
 {
-	"key": "hipy_js_喜马拉雅[听]",
-	"name": "🎧喜马拉雅",
-	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-    "order_num": 0,
-	"ext": "./TV/喜马拉雅[听].js"
+    "key":"drpy_js_斗鱼直播",
+    "name":"直播 | 斗鱼",
+    "type":3,
+    "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
+    "style":{"type":"rect","ratio":1.597},
+    "changeable":0,
+    "ext":"./TV/斗鱼直播.js"
 },
 {
-	"key": "hipy_js_有声听书网[听]",
-	"name": "🎧有声听书网",
-	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/有声听书网[听].js"
+    "key":"drpy_js_虎牙直播",
+    "name":"直播 | 虎牙",
+    "type":3,
+    "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
+    "style":{"type":"rect","ratio":1.597},
+    "changeable":0,
+    "ext":"./TV/虎牙直播.js"
+},
+{
+    "key":"drpy_js_广播迷FM",
+    "name":"广播 | 广播迷FM",
+    "type":3,
+    "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
+    "changeable":0,
+    "ext":"./TV/广播迷FM.js"
+},
+{
+    "key":"drpy_js_蜻蜓FM",
+    "name":"广播 | 蜻蜓FM",
+    "type":3,
+    "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
+    "changeable":0,
+    "ext":"./TV/蜻蜓FM.js"
+},
+{
+    "key":"drpy_js_喜马拉雅",
+    "name":"听书┃喜马拉雅",
+    "type":3,
+    "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
+    "changeable":0,
+    "ext":"./TV/喜马拉雅[听].js"
 },
 {
 	"key": "hipy_js_有声小说吧[听]",
 	"name": "🎧有声小说吧",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/有声小说吧[听].js"
 },
@@ -563,7 +608,7 @@
 	"key": "hipy_js_兔小贝[儿]",
 	"name": "兔小贝",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/兔小贝[儿].js"
 },
@@ -571,7 +616,7 @@
 	"key": "hipy_js_曲肝肠断",
 	"name": "曲肝肠断",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/一曲肝肠断.js"
 },
@@ -579,7 +624,7 @@
 	"key": "hipy_js_KTV歌厅[听]",
 	"name": "KTV歌厅",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/KTV歌厅[听].js"
 },
@@ -587,7 +632,7 @@
 	"key": "hipy_js_种子音乐[听]",
 	"name": "种子音乐",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/种子音乐[听].js"
 },
@@ -595,7 +640,7 @@
 	"key": "hipy_js_清风DJ[听]",
 	"name": "清风DJ",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/清风DJ[听].js"
 },
@@ -612,17 +657,17 @@
     "key":"drpy_js_酷狗MV",
     "name":"🎸酷狗┃MV",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
     "changeable":0,
-    "ext":"./TV/酷狗MV.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/酷狗MV.js"
 },
 {
     "key":"drpy_js_酷奇MV",
     "name":"🎸酷奇┃MV",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
     "changeable":0,
-    "ext":"./TV/酷奇MV.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/酷奇MV.js"
 },
 {
     "key": "應用商店",
