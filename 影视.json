@@ -167,11 +167,14 @@
     "ext":"./TV/骚火电影.js"
 },
 {
-    "key": "hipy_js_111tv[自动]",
-    "name": "🍥山妖☪影院",
+    "key": "hipy_js_111tv",
+    "name": "💖分享山妖",
     "type": 3,
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-    "order_num": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
     "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/111tv[自动].js"
 },
 {
