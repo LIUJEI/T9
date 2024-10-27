@@ -101,28 +101,28 @@
     "ext": "./TV/闪电.js"
 },
 {
-	"key": "hipy_js_一个g影视",
-	"name": "🍥壹個☪影視",
-	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/一个g影视.js"
+    "key": "hipy_js_一个g影视",
+    "name": "🍥壹個☪影視",
+    "type": 3,
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "order_num": 0,
+    "ext": "./TV/一个g影视.js"
 },
 {
-	"key": "hipy_js_饺子影院",
-	"name": "🍥饺子☪影院",
-	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/饺子影院.js"
+    "key": "hipy_js_饺子影院",
+    "name": "🍥饺子☪影院",
+    "type": 3,
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "order_num": 0,
+    "ext": "./TV/饺子影院.js"
 },
 {
-	"key": "hipy_js_8号影院",
-	"name": "🍥捌號☪影院",
-	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/8号影院.js"
+    "key": "hipy_js_8号影院",
+    "name": "🍥捌號☪影院",
+    "type": 3,
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "order_num": 0,
+    "ext": "./TV/8号影院.js"
 },
 {
     "key":"drpy_js_电影先生",
