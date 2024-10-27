@@ -170,7 +170,7 @@
     "key": "hipy_js_111tv[自动]",
     "name": "🍥山妖☪影院",
     "type": 3,
-    "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
     "order_num": 0,
     "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/111tv[自动].js"
 },
