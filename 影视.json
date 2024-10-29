@@ -64,7 +64,7 @@
     "key":"dr_腾迅",
     "name":"🐧騰訊┃官方",
     "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/QQtv.js"
 },
@@ -72,7 +72,7 @@
     "key": "hipy_js_金牌",
     "name": "🍥金牌☪影視",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+   "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/jpys.js"
 },
@@ -80,7 +80,7 @@
     "key": "hipy_js_瓜子",
     "name": "🍥瓜子☪影視",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/guazi.js"
 },
@@ -88,7 +88,7 @@
     "key": "hipy_js_fxztg",
     "name": "🍥糖果☪影視",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/糖果.js"
 },
@@ -96,7 +96,7 @@
     "key": "hipy_js_sd",
     "name": "🍥閃電☪影視",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/闪电.js"
 },
@@ -104,7 +104,7 @@
     "key": "hipy_js_一个g影视",
     "name": "🍥壹個☪影視",
     "type": 3,
-   "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+   "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/一个g影视.js"
 },
@@ -112,7 +112,7 @@
     "key": "hipy_js_饺子影院",
     "name": "🍥饺子☪影院",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/饺子影院.js"
 },
@@ -120,7 +120,7 @@
     "key": "hipy_js_8号影院",
     "name": "🍥捌號☪影院",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/8号影院.js"
 },
@@ -128,35 +128,35 @@
     "key":"drpy_js_TVB云播",
     "name":"🍥影视☪云播",
     "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext":"./TV/TVB云播.js"
 },
 {
     "key":"drpy_js_ddys",
     "name":"🍥低端☪影视",
     "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+   "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext":"./TV/ddys.js"
 },
 {
     "key":"drpy_js_蓝光影院",
     "name":"🍥蓝光☪影院",
     "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext":"./TV/蓝光影院.js"
 },
 {
     "key":"drpy_js_米爱影视",
     "name":"🍥米爱☪影视",
     "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext":"./TV/米爱影视.js"
 },
 {
     "key":"drpy_js_骚火电影",
     "name":"🍥骚火☪电影",
     "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext":"./TV/骚火电影.js"
 },
 {
