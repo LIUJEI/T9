@@ -161,13 +161,6 @@
     "categories": []
 },
 {
-    "key": "贱贱",
-    "name": "🐭贱贱 | P2P",
-    "type": 3,
-    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-},
-{
     "key": "金牌",
     "name": "♨️金牌影視",
     "type": 3,
@@ -217,93 +210,123 @@
     "ext": "./TV/西瓜影院.js"
 },
 {
-    "key": "hipy_js_tpian",
-    "name": "♨️濺片影視",
-    "type": 3,
-    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "./TV/荐片.js"
-},
-{
     "key": "摘星",
     "name": "♨️星星影視",
     "type": 3,
     "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/摘星.js"
 },
-
 {
-      "key": "ssys",
-      "name": "♨️┣三三┃视频",
-      "type": 3,
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "http://m1839732.cf.caoni.ru/1/meow.php;md5;A413D6A6A5378A02256F703CB6C530AB"
-},
-{
-      "key": "qysp",
-      "name": "♨️┣奇艺┃视频",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=qysp"
-},
-{
-      "key": "txsp",
-      "name": "♨️┣腾讯┃视频",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=txsp"
-},
-{
-      "key": "yksp",
-      "name": "♨️┣优酷┃视频",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=yksp"
-},
-{
-      "key": "mgsp",
-      "name": "♨️┣芒果┃视频",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=mgsp"
-},
-{
-      "key": "sgys",
-      "name": "♨️┣搜狗┃视频",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp"
-},
-{
-    "key": "hipy_js_蓝莓短剧",
-    "name": "♨️藍莓☪短劇",
+    "key": "qysp",
+    "name": "♨️┣奇艺┃视频",
     "type": 3,
-    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "./TV/lanmei.js"
+    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "ext": "http://www.meowtv.cn/js/meow.php?file=qysp"
 },
 {
-    "key": "hipy_js_星芽短剧",
-    "name": "♨️星芽☪短劇",
+    "key": "txsp",
+    "name": "♨️┣腾讯┃视频",
     "type": 3,
-    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "./TV/xingya.js"
+    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "ext": "http://www.meowtv.cn/js/meow.php?file=txsp"
+},
+{
+    "key": "yksp",
+    "name": "♨️┣优酷┃视频",
+    "type": 3,
+    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "ext": "http://www.meowtv.cn/js/meow.php?file=yksp"
+},
+{
+    "key": "mgsp",
+    "name": "♨️┣芒果┃视频",
+    "type": 3,
+    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "ext": "http://www.meowtv.cn/js/meow.php?file=mgsp"
+},
+{
+    "key": "sgys",
+    "name": "♨️┣搜狗┃视频",
+    "type": 3,
+    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp"
+},
+{
+    "key": "drpy_js_爱看机器人",
+    "name": "💓影视 | 爱看",
+    "type": 3,
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
+},
+{
+    "key": "drpy_js_哔哩直播",
+    "name": "直播 | 哔哩 ",
+    "type": 3,
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"
+},
+{
+    "key": "drpy_js_斗鱼直播",
+    "name": "直播 | 斗鱼 ",
+    "type": 3,
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"
+},
+{
+    "key": "drpy_js_虎牙直播",
+    "name": "直播 | 虎牙 ",
+    "type": 3,
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
+},
+{
+    "key": "drpy_js_JustLive",
+    "name": "直播 | JustLive ",
+    "type": 3,
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js"
+},
+{
+    "key": "drpy_js_JRKAN直播",
+     "name": "体育 | JRKAN直播 ",
+    "type": 3,
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JRKAN直播.js"
+},
+{
+    "key": "drpy_js_88看球",
+    "name": "体育 | 88看球 ",
+    "type": 3,
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js"
+},
+{
+    "key": "drpy_js_310直播",
+    "name": "体育|310直播 ",
+    "type": 3,
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/310直播.js"
+},
+{
+    "key": "drpy_js_爱弹幕",
+    "name": "动漫 | 爱弹幕 ",
+    "type": 3,
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱弹幕.js"
+},
+{
+    "key": "drpy_js_兔小贝",
+    "name": "动漫 | 兔小贝 ",
+    "type": 3,
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/兔小贝.js"
+},
+{
+    "key": "drpy_js_AnFuns",
+    "name": "动漫|AnFuns ",
+    "type": 3,
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/AnFuns.js"
 },
 
 {
