@@ -23,6 +23,28 @@
     "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=文采"
 },
+ {
+    "key": "subai",
+    "name": "🤖弹幕 | 素白",
+    "type": 3,
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=素白"
+},
+{
+    "key": "skav",
+    "name": "💓弹幕 | 4KAV",
+    "type": 3,
+    "playerType": 2,
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=4KAV"
+},
+{
+    "key": "jianpian",
+    "name": "🌟弹幕 | 荐片",
+    "type": 3,
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=荐片"
+},
 {
     "key": "zhaixingjs",
     "name": "🌈弹幕 | 摘星",
@@ -87,6 +109,20 @@
     "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=四月"
 }, 
 {
+    "key": "youyou",
+    "name": "🦋弹幕 | 优优",
+    "type": 3,
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=优优"
+},
+{
+    "key": "腾腾",
+    "name": "🍄弹幕 | 腾腾",
+    "type": 3,
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=腾腾"
+},
+{
     "key": "BAOFENG",
     "name": "🤖︎影视 | 风暴",
     "type": 1,
@@ -113,6 +149,16 @@
     "type": 1,
     "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id3",
     "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
+},
+{
+    "key": "hipy_subai",
+    "name": "🦊影视 | 素心",
+    "type": 1,
+    "playerType": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "http://154.9.252.167:666/tvbox/lib/素白.php?key=104847347",
+    "categories": []
 },
 {
     "key": "贱贱",
