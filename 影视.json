@@ -72,8 +72,7 @@
     "key": "hipy_js_金牌",
     "name": "🍥金牌☪影視",
     "type": 3,
-   "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext": "./TV/jpys.js"
 },
 {
@@ -81,7 +80,6 @@
     "name": "🍥瓜子☪影視",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/guazi.js"
 },
 {
@@ -89,7 +87,6 @@
     "name": "🍥糖果☪影視",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/糖果.js"
 },
 {
@@ -97,15 +94,20 @@
     "name": "🍥閃電☪影視",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/闪电.js"
+},
+{
+    "key": "hipy_js_摘星",
+    "name": "🍥星星☪影視",
+    "type": 3,
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/摘星.js"
 },
 {
     "key": "hipy_js_一个g影视",
     "name": "🍥壹個☪影視",
     "type": 3,
-   "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext": "./TV/一个g影视.js"
 },
 {
@@ -121,7 +123,6 @@
     "name": "🍥捌號☪影院",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/8号影院.js"
 },
 {
@@ -144,13 +145,6 @@
     "type":3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext":"./TV/蓝光影院.js"
-},
-{
-    "key":"drpy_js_米爱影视",
-    "name":"🍥米爱☪影视",
-    "type":3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "ext":"./TV/米爱影视.js"
 },
 {
     "key":"drpy_js_骚火电影",
@@ -178,7 +172,6 @@
     "name": "🍥爱迪☪影视",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/爱迪影视.js"
 },
 {
@@ -186,7 +179,6 @@
     "name": "🍥北川☪影视",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/北川影视.js"
 },
 {
@@ -202,7 +194,6 @@
     "name": "🍥影兔☪影視",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/电影兔.js"
 },
 {
@@ -210,7 +201,6 @@
     "name": "🍥冠建☪影视",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/冠建影视.js"
 },
 
@@ -219,7 +209,6 @@
     "name": "🍥家庭☪影视",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/家庭影视.js"
 },
 {
@@ -227,7 +216,6 @@
     "name": "🍥可达☪影视",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/可达影视.js"
 },
 {
@@ -235,7 +223,6 @@
     "name": "🍥墨点☪影视",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/墨点影视.js"
 },
 {
@@ -251,7 +238,6 @@
     "name": "🍥暖光☪影视",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/暖光影视.js"
 },
 {
@@ -259,7 +245,6 @@
     "name": "🍥青龙☪影視",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/青龙.js"
 },
 {
@@ -275,64 +260,56 @@
     "name": "🍥时光☪影院",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/时光影院.js"
 },
 {
-	"key": "hipy_js_天启",
-	"name": "🍥天启☪影視",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/天启.js"
+    "key": "hipy_js_天启",
+    "name": "🍥天启☪影視",
+    "type": 3,
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "ext": "./TV/天启.js"
 },
 {
-	"key": "hipy_js_无忧影视",
-	"name": "🍥无忧☪影视",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/无忧影视.js"
+    "key": "hipy_js_无忧影视",
+    "name": "🍥无忧☪影视",
+    "type": 3,
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "ext": "./TV/无忧影视.js"
 },
 {
-	"key": "hipy_js_想看影院",
-	"name": "🍥想看☪影院",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/想看影院.js"
+    "key": "hipy_js_想看影院",
+    "name": "🍥想看☪影院",
+    "type": 3,
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "ext": "./TV/想看影院.js"
 },
 {
-	"key": "hipy_js_星辰CT",
-	"name": "🍥星辰☪影院",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/星辰CT.js"
+    "key": "hipy_js_星辰CT",
+    "name": "🍥星辰☪影院",
+    "type": 3,
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "ext": "./TV/星辰CT.js"
 },
 {
-	"key": "hipy_js_星空影院",
-	"name": "🍥星空☪影院",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/星空影院.js"
+    "key": "hipy_js_星空影院",
+    "name": "🍥星空☪影院",
+    "type": 3,
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "ext": "./TV/星空影院.js"
 },
 {
-	"key": "hipy_js_影剧星球",
-	"name": "🍥影剧☪星球",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/影剧星球.js"
+    "key": "hipy_js_影剧星球",
+    "name": "🍥影剧☪星球",
+    "type": 3,
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "ext": "./TV/影剧星球.js"
 },
 {
-	"key": "hipy_js_云电影网",
-	"name": "🍥云电☪影网",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/云电影网.js"
+    "key": "hipy_js_云电影网",
+    "name": "🍥云电☪影网",
+    "type": 3,
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "ext": "./TV/云电影网.js"
 },
 {
    "key": "hipy_js_一起看",
@@ -355,19 +332,18 @@
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext": "./TV/西瓜影院.js"
 },
-{
-    "key": "hipy_js_摘星",
-    "name": "🍥星星☪影視",
-    "type": 3,
+	{
+    "key":"drpy_js_米爱影视",
+    "name":"🍥米爱☪影视",
+    "type":3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/摘星.js"
+    "ext":"./TV/米爱影视.js"
 },
 {
     "key": "hipy_js_豆角网",
     "name": "🍥豆角网🍥",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/豆角网.js"
 },
 {
@@ -375,7 +351,6 @@
     "name": "🍥热片网🍥",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/热片网.js"
 },
 {
@@ -383,7 +358,6 @@
     "name": "♨️藍莓☪短劇",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/lanmei.js"
 },
 {
@@ -391,58 +365,52 @@
     "name": "♨️星芽☪短劇",
     "type": 3,
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "order_num": 0,
     "ext": "./TV/xingya.js"
 },
 {
-	"key": "hipy_js_短剧天堂",
-	"name": "♨️短剧☪天堂",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/短剧天堂.js"
+    "key": "hipy_js_短剧天堂",
+    "name": "♨️短剧☪天堂",
+    "type": 3,
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "ext": "./TV/短剧天堂.js"
 },
 {
-	"key": "hipy_js_短剧TV网",
-	"name": "♨️短剧☪TV网",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/短剧TV网.js"
+    "key": "hipy_js_短剧TV网",
+    "name": "♨️短剧☪TV网",
+    "type": 3,
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "ext": "./TV/短剧TV网.js"
 },
 
 {
-	"key": "hipy_js_KTV歌厅[听]",
-	"name": "KTV歌厅",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/KTV歌厅[听].js"
+    "key": "hipy_js_KTV歌厅[听]",
+    "name": "KTV歌厅",
+    "type": 3,
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "ext": "./TV/KTV歌厅[听].js"
 },
 {
-	"key": "hipy_js_种子音乐[听]",
-	"name": "种子音乐",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/种子音乐[听].js"
+    "key": "hipy_js_种子音乐[听]",
+    "name": "种子音乐",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "ext": "./TV/种子音乐[听].js"
 },
 {
-	"key": "hipy_js_清风DJ[听]",
-	"name": "清风DJ",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/清风DJ[听].js"
+    "key": "hipy_js_清风DJ[听]",
+    "name": "清风DJ",
+    "type": 3,
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "ext": "./TV/清风DJ[听].js"
 },
 {
-	"key": "Yinyuetai",
-	"name": "音悦台",
-	"type": 3,
-	"api": "csp_Yinyuetai",
-	"searchable": 1,
-	"changeable": 0,
-	"order_num": 9999
+    "key": "Yinyuetai",
+    "name": "音悦台",
+    "type": 3,
+    "api": "csp_Yinyuetai",
+    "searchable": 1,
+    "changeable": 0,
+    "order_num": 9999
 },
 {
     "key":"drpy_js_酷狗MV",
@@ -462,20 +430,20 @@
 },
 {
     "key": "應用商店",
-	"name": "🖥應用商店",
-	"type": 3,
-	"api": "csp_Market",
-	"searchable": 0,
-	"changeable": 0,
-	"ext": "https://fm.t4tv.hz.cz/json/market.json",
-	"order_num": 9999
+    "name": "🖥應用商店",
+    "type": 3,
+    "api": "csp_Market",
+    "searchable": 0,
+    "changeable": 0,
+    "ext": "https://fm.t4tv.hz.cz/json/market.json",
+    "order_num": 9999
 },
 {
     "key": "Local",
-	"name": "🖥本地",
-	"type": 3,
-	"api": "csp_Local",
-	"order_num": 9999
+    "name": "🖥本地",
+    "type": 3,
+    "api": "csp_Local",
+    "order_num": 9999
 }],
 
 "parses":[
