@@ -273,14 +273,6 @@
 	"ext": "./TV/全能影视.js"
 },
 {
-	"key": "hipy_js_人人影视",
-	"name": "🍥人人☪影视",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/人人影视.js"
-},
-{
 	"key": "hipy_js_时光影院",
 	"name": "🍥时光☪影院",
 	"type": 3,
@@ -327,14 +319,6 @@
 	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/星空影院.js"
-},
-{
-	"key": "hipy_js_妖狐影视[自动]",
-	"name": "🍥妖狐☪影视",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/妖狐影视[自动].js"
 },
 {
 	"key": "hipy_js_影剧星球",
@@ -428,54 +412,7 @@
 	"order_num": 0,
 	"ext": "./TV/短剧TV网.js"
 },
-{
-    "key": "hipy_js_好趣网",
-    "name": "🖥电视┃好趣网",
-    "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
-    "style":{ "type":"oval", "ratio":1.1 },
-    "ext":"./TV/好趣网.js"
-},
-{
-    "key":"drpy_js_喜马拉雅",
-    "name":"🖥听书┃喜马拉雅",
-    "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
-    "changeable":0,
-    "ext":"./TV/喜马拉雅[听].js"
-},
-{
-    "key":"drpy_js_广播迷FM",
-    "name":"广播 | 广播迷FM",
-    "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
-    "changeable":0,
-    "ext":"./TV/广播迷FM.js"
-},
-{
-    "key":"drpy_js_蜻蜓FM",
-    "name":"广播 | 蜻蜓FM",
-    "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
-    "changeable":0,
-    "ext":"./TV/蜻蜓FM.js"
-},
-{
-	"key": "hipy_js_兔小贝[儿]",
-	"name": "兔小贝",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/兔小贝[儿].js"
-},
-{
-	"key": "hipy_js_曲肝肠断",
-	"name": "曲肝肠断",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/一曲肝肠断.js"
-},
+
 {
 	"key": "hipy_js_KTV歌厅[听]",
 	"name": "KTV歌厅",
@@ -527,7 +464,7 @@
 },
 {
     "key": "應用商店",
-	"name": "應用商店",
+	"name": "🖥應用商店",
 	"type": 3,
 	"api": "csp_Market",
 	"searchable": 0,
@@ -537,7 +474,7 @@
 },
 {
     "key": "Local",
-	"name": "本地",
+	"name": "🖥本地",
 	"type": 3,
 	"api": "csp_Local",
 	"order_num": 9999
