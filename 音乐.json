@@ -5,22 +5,8 @@
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
 "sites":[
-{"key":"T4-douban","name":"影视-豆瓣(T4)","type":4,"api":"https://catbox.n13.club/t4/douban.php"},
-{"key":"T4-yugaopian","name":"影视-预告片(T4)","type":4,"api":"https://catbox.n13.club/t4/yugaopian.php"},
-{
-   "key": "hipy_js_瓜子",
-    "name": "🎬瓜子影視",
-    "type": 3,
-   "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/guazi.js"
-},
-{
-    "key":"dr_腾迅",
-    "name":"🎬騰訊官方",
-    "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/QQtv.js"
-},
+{"key":"T4-douban","name":"🎬影视-豆瓣(T4)","type":4,"api":"https://catbox.n13.club/t4/douban.php"},
+{"key":"T4-yugaopian","name":"🎬影视-预告片(T4)","type":4,"api":"https://catbox.n13.club/t4/yugaopian.php"},
 {
     "key": "csp_哔哩MV",
     "name": "🎸歌曲┃哔哩",
@@ -85,7 +71,10 @@
     "quickSearch": 1,
     "filterable": 1       
 },
-
+{"key":"T4-tangdou","name":"音乐-糖豆(T4)","type":4,"api":"https://catbox.n13.club/t4/tangdou.php"},
+{"key":"MV","name":"音乐-酷奇(T4)","type":4,"api":"https://catbox.n13.club/t4/mv2.php"},
+{"key":"T4-djuu","name":"音乐-DJUU(T4)","type":4,"api":"https://catbox.n13.club/t4/djuu.php"},
+{"key":"djmv","name":"音乐-DJMV(T4)","type":4,"api":"https://catbox.n13.club/t4/djmv.php"},
 {"key":"T4-qiertiyu","name":"体育-企鹅(T4)","type":4,"api":"https://catbox.n13.club/t4/qietiyu.php"},
 {"key":"T4-bookan","name":"听书-博看(T4)","type":4,"api":"https://catbox.n13.club/t4/bookan.php"},
 {"key":"T4-tingshu","name":"其他-275听书(T4)","type":4,"api":"https://catbox.n13.club/t4/275ts.php"},
@@ -94,9 +83,6 @@
 {"key":"T4-cntv","name":"其他-央视2(T4)","type":4,"api":"https://catbox.n13.club/t4/cntv.php"},
 {"key":"T4-blh","name":"儿童-贝乐虎(T4)","type":4,"api":"https://catbox.n13.club/t4/beilehu.php"},
 {"key":"tuxiaobei","name":"儿童-兔小贝(T4)","type":4,"api":"https://catbox.n13.club/t4/tuxiaobei.php"},
-{"key":"T4-tangdou","name":"音乐-糖豆(T4)","type":4,"api":"https://catbox.n13.club/t4/tangdou.php"},
-{"key":"MV","name":"音乐-酷奇(T4)","type":4,"api":"https://catbox.n13.club/t4/mv2.php"},
-{"key":"T4-djuu","name":"音乐-DJUU(T4)","type":4,"api":"https://catbox.n13.club/t4/djuu.php"},
 {"key":"T4-jieshuo","name":"B站-解说(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=影视解说"},
 {"key":"T4-bmtv","name":"B站-MTV(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=bMTV"},
 {"key":"T4-Blixs","name":"B站-相声(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=Blixs"},
