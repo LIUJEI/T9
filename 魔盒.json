@@ -3,7 +3,7 @@
 
     "warningText":"💕永久完全免费，切勿付费购买💕",  
 
-   "spider": "http://64.112.42.49:1688/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+   "spider": "./JAR/A8spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
     
     "wallpaper": "https://yun.chuqiuyu.tk",
 
