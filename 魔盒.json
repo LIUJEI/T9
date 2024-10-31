@@ -682,37 +682,47 @@
     "ext": "http://64.112.42.49:1688/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/河马短剧.json"
 },
 {
+    "key": "csp_JPYY",
+    "name": "文才┃影视",
+    "type": 3,
+    "api": "csp_Jpyy",
+    "changeable": 1,
+    "jar":"./JAR/B31026.jar;md5;b3c44a3be68151a9fea6e0b441bdb2fd"
+},
+{
+    "key": "csp_瓜子",
+    "name": "瓜子┃APP",
+    "type": 3,
+    "api": "csp_Gz360",
+    "changeable": 1,
+    "jar":"./JAR/B31026.jar;md5;b3c44a3be68151a9fea6e0b441bdb2fd"
+},
+{
+    "key": "csp_Nkdy",
+    "name": "耐看┃影视",
+    "type": 3,
+    "api": "csp_Nkdy",
+    "changeable": 1,
+    "jar":"./JAR/B31026.jar;md5;b3c44a3be68151a9fea6e0b441bdb2fd"
+},
+{
     "key": "荐片弹幕",
     "name": "荐片┃影视",
     "type": 3,
     "api": "csp_Jianpian",
     "playerType": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
     "ext": {
         "danmu": true
     }
 },
 {
     "key": "csp_Jpys",
-    "name": "文才┃影视",
+    "name": "金牌┃影视",
     "type": 3,
     "api": "csp_Jpys",
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1
-},
-{
-    "key": "csp_JPYY",
-    "name": "金牌┃影视",
-    "type": 3,
-    "searchable": 1,
-    "changeable": 1,
-    "api": "csp_Jpyy",
-    "playerType": 1,
-    "filterable": 1,
-    "jar":"https://gitee.com/zyang0422/bd/raw/master/jar/xm.jar"
 },
 {
     "key": "奇优影视",
