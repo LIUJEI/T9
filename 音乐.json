@@ -115,6 +115,8 @@
 {"key":"T4-中医","name":"B站-中医(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=中医"},
 {"key":"T4-球类合集","name":"B站-球类合集(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=球类合集"},
 {"key":"T4-球星合集","name":"B站-球星合集(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=球星合集"},
+{"key":"T4-jp","name":"影视-荐片(T4)","type":4,"api":"https://catbox.n13.club/t4/jianpian.php"},
+{"key":"T4-南瓜","name":"影视-南瓜(T4)","type":4,"api":"https://catbox.n13.club/t4/nangua.php"},
 {
     "key": "10",
     "name": "📛┣☪全✿局┫【更新时间:2024】",
