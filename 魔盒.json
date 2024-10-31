@@ -924,10 +924,13 @@
 {
     "key": "hipy_js_网易影像",
     "name": "🖥网易┃影像",
-    "type": 3,
-    "api": "./TV/dy2.js",
-    "ext": "./TV/网易影像.js"
+    "type":3,
+    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "changeable":0,
+    "style":{"type":"rect","ratio":1.597},
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/网易影像.js"
 },
+
 {
   "key": "hipy_js_diany",
   "name": "🖥电影┃合集",
