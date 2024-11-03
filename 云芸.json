@@ -398,12 +398,19 @@
     "ext": "./Lib/河马短剧.json"
 },
 {
-    "key": "csp_JPYY",
-    "name": "文采☪影視",
+    "key": "csp_0JPYY",
+    "name": "金牌☪影视",
     "type": 3,
     "api": "csp_Jpyy",
-    "changeable": 1,
-    "jar":"./JAR/B31026.jar"
+    "jar":"https://gitee.com/zyang0422/bd/raw/master/jar/xm.jar"
+},
+{
+    "key": "csp_Wwys",
+    "name": "旺旺☪影视",
+    "type": 3,
+    "api": "csp_Wwys",
+    "jar":"https://gitee.com/zyang0422/bd/raw/master/jar/xm.jar",
+    "ext": "https://www.wwgz.cn/"
 },
 {
     "key": "西瓜视频",
