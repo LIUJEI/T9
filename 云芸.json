@@ -31,7 +31,7 @@
     "key": "直播转点播",
     "name": "🖥电视直播",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/live.js",
     "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m//json/live.php?ou=公众号欧歌APP"
 },
 {
