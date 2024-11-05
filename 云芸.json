@@ -352,18 +352,20 @@
     "ext": {"danmu": true}
 },
 {
-    "key": "腾讯弹幕",
-    "name": "🐧腾讯☪弹幕",
-    "type": 3,
+    "key":"dr_优酷",
+    "name":"🏠優酷☪弹幕",
+    "type":3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/腾讯弹幕.js"
+    "danmu": true,
+    "ext": "./TV/yKtv.js"
 },
 {
-    "key": "优酷弹幕",
-    "name": "🏠优酷☪弹幕",
-    "type": 3,
+    "key":"dr_腾迅",
+    "name":"🐧騰訊☪弹幕",
+    "type":3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/优酷弹幕.js"
+    "danmu": true,
+    "ext": "./TV/QQtv.js"
 },
 {
     "key":"dr_芒果",
@@ -836,6 +838,11 @@
     "type": 0,
     "url": "https://jx.xmflv.com/?url="
 },
+{
+    "name": "☪XGJ解析㊐",
+    "type": "1",
+    "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url="
+},  
 {
     "name": "★巴拉解析★",
     "type": 1,
