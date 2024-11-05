@@ -31,7 +31,7 @@
     "key": "直播转点播",
     "name": "🖥电视直播",
     "type": 3,
-    "api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/live.js",
+    "api": "./TV/drpy2.min.js",
     "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m//json/live.php?ou=公众号欧歌APP"
 },
 {
@@ -39,7 +39,7 @@
     "name": "🖥网盘配置",
     "type": 3,
     "api": "csp_Config",
-    "jar":"https://git.acwing.com/999/tvbox/-/raw/main/JAR/pg.jar",
+    "jar":"./JAR/pg.jar",
     "changeable": 0,
     "ext":"./Lib/tokenm.json"
 },
@@ -138,7 +138,7 @@
     "name":"蜂鸟☪影視",
     "type":3,
     "api":"csp_AppSK",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/享2301.jar",
+    "jar": "./JAR/享2301.jar",
     "ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="
 },
 {
@@ -147,7 +147,7 @@
     "type":3,
     "api":"csp_AppSK",
     "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsKjLdyU6L2fWAhdkHsMHY7zpKguHeHM9N9Hodw+0VE7gKlHRpfZ+PrvhFHLg==",
-    "jar":"https://git.acwing.com/999/tvbox/-/raw/main/JAR/享2301.jar"
+    "jar":"./JAR/享2301.jar"
 },
 {
     "key": "金牌影视",
@@ -654,8 +654,8 @@
     "name":"💫cctv｜大全",
     "type":3,
     "api":"csp_CCTV",
-    "jar":"https://git.acwing.com/999/tvbox/-/raw/main/JAR/荷.jar",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/央视大全.py"
+    "jar":"./JAR/荷.jar",
+    "ext":"./Lib/央视大全.py"
 },
 {
     "key":"py_cctv_企鹅",
