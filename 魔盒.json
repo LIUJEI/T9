@@ -97,6 +97,57 @@
     "分类": "🏮劉氏-电影$1#剧集$2#动漫$4#综艺$3#爽剧$5#记录$6"}
 },
 {
+    "key": "星辰xBPQ",
+    "name": "正版🍁网站星辰",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+    "分类": "电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju",
+    "简介": "【琉芸】™提醒✨勿信广告，避免受骗✨+class=\"detail-sketch\">&&</span>",
+    "线路数组": "#playlist&&</li>",
+    "线路标题": "琉芸专享💠+>&&</a>[排序:神马云播>阿里云播>]",
+    "播放标题": ">&&<[不包含:1080P]"}
+},
+{
+    "key":"csp_星辰",
+    "name":"正版🍁星辰影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": {
+    "主页url":"http://www.xingchenwu.com/",
+    "简介":"【琉芸】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-sketch\">&&</span>",
+    "导演":"导演：&&</p>",
+    "主演":"主演：&&</p>",
+    "影片状态":"状态：&&</p>",
+    "影片类型":"类型：&&</p>",
+    "数组":"stui-vodlist__thumb lazyload\"&&</a>",
+    "标题":"title=\"&&\"",
+    "副标题":"✨琉芸蓝光✨+text-right\">&&</span>",
+    "图片":"data-original=\"&&\"",
+    "链接":"href=\"&&\"",
+    "搜索url":"http://www.xingchenwu.com/search.php;post;searchword={wd}",
+    "搜索数组":"stui-vodlist__thumb lazyload\"&&</a>",
+    "搜索标题":"title=\"&&\"",
+    "搜索副标题":"text-right\">&&</span>",
+    "搜索图片":"data-original=\"&&\"",
+    "搜索链接":"href=\"&&\"",
+    "线路数组":"<h3&&/h3>",
+    "线路标题":"琉芸专享✨+>&&<",
+    "播放链接":"href='&&'",
+    "分类url":"http://www.xingchenwu.com/{cateId}/index{catePg}.html[http://www.xingchenwu.com/{cateId}/index.html];;ak",
+    "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}
+},
+{
+    "key": "影视大全",
+    "name": "正版🍁影视大全",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "分类url": "https://www.ysdq.me/vodshow/{cateId}-{class}-{by}-{area}-{lang}--{catePg}-{year}.html",
+    "分类": "电影$1#电视剧$2#国产剧$21#动漫$5#综艺$4#短剧$3"}
+},
+{
     "key":"csp_影業",
     "name":"正版🍁劉氏影業",
     "type":3,
@@ -319,9 +370,6 @@
     "name": "正版🍁全看影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
     "ext": {
     "嗅探词": ".m3u8?#bdric-cdn-tos.1ljx.com#.m3u8#.mp4",
     "副标题":"✨琉芸蓝光✨+text-right\">&&</span>",
@@ -336,8 +384,6 @@
     "name": "正版🍁素白蓝光",
     "type": 3,
     "api": "csp_XBPQ",
-    "searchable": 1,
-    "changeable": 1,
     "ext": {
   "站名": "素白白影视",
   "主页url": "https://www.subaibaiys.com",
@@ -402,35 +448,6 @@
     "分类url": "https://gofree.vip/show/dianying-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$dianying#电视剧$dianshiju#韩剧$HJ#动漫$dongman#综艺$zongyi#短剧$dydj"}
 },
-{
-    "key":"csp_星辰",
-    "name":"正版🍁星辰影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext": {
-    "主页url":"http://www.xingchenwu.com/",
-    "简介":"【琉芸】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-sketch\">&&</span>",
-    "导演":"导演：&&</p>",
-    "主演":"主演：&&</p>",
-    "影片状态":"状态：&&</p>",
-    "影片类型":"类型：&&</p>",
-    "数组":"stui-vodlist__thumb lazyload\"&&</a>",
-    "标题":"title=\"&&\"",
-    "副标题":"✨琉芸蓝光✨+text-right\">&&</span>",
-    "图片":"data-original=\"&&\"",
-    "链接":"href=\"&&\"",
-    "搜索url":"http://www.xingchenwu.com/search.php;post;searchword={wd}",
-    "搜索数组":"stui-vodlist__thumb lazyload\"&&</a>",
-    "搜索标题":"title=\"&&\"",
-    "搜索副标题":"text-right\">&&</span>",
-    "搜索图片":"data-original=\"&&\"",
-    "搜索链接":"href=\"&&\"",
-    "线路数组":"<h3&&/h3>",
-    "线路标题":"琉芸专享✨+>&&<",
-    "播放链接":"href='&&'",
-    "分类url":"http://www.xingchenwu.com/{cateId}/index{catePg}.html[http://www.xingchenwu.com/{cateId}/index.html];;ak",
-    "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}
-},
 
 {
     "key": "星空影视",
@@ -444,7 +461,6 @@
     "分类url": "https://www.2000xk.com/hd/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
     "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"}
 },
-
 {
     "key": "凯奇影视",
     "name": "正版🍁凯奇影院",
@@ -459,15 +475,6 @@
     "线路标题": "琉芸专享✨+</i>&nbsp;&&</span>[不包含:线路1]",
     "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"}
-},
-{
-    "key": "影视大全",
-    "name": "正版🍁影视大全",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "分类url": "https://www.ysdq.me/vodshow/{cateId}-{class}-{by}-{area}-{lang}--{catePg}-{year}.html",
-    "分类": "电影$1#电视剧$2#动漫$5#综艺$4#短剧$3"}
 },
 {
     "key": "csp_TVB",
@@ -541,17 +548,15 @@
     "分类url": "https://www.ysgctv.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#动漫$4#综艺$3"}
 },
-
 {
-	"key": "珍品",
-	"name": "正版🍁珍品蓝光",
-	"type": 3,
-	"api": "csp_XBPQ",
-	"ext": {
-	"分类url": "https://www.zpcxb.com/zptop/area/{area}/{cateId}/page/{catePg}/year/{year}.html",
-	"分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}
+    "key": "珍品",
+    "name": "正版🍁珍品蓝光",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "分类url": "https://www.zpcxb.com/zptop/area/{area}/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}
 },
-
 {
     "key": "哩咕TV",
     "name": "正版🍁哩咕影视",
@@ -971,7 +976,7 @@
 },
 {
     "key":"本地",
-    "name": "🇨🇳┣☪琉✿芸┫【更新时间:11.05】",
+    "name": "🇨🇳┣☪琉✿芸┫【更新时间:11.12】",
     "type": 3,
     "api": "csp_LocalFile"
 }],
