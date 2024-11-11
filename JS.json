@@ -16,36 +16,50 @@
     "key": "drpy_js_豆瓣",
     "name": "🎬┣豆瓣┫导航",
     "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=豆瓣"
+    "api": "./TV/drpy2.min.js",
+    "ext": "./TV/douban.js"
 },
 {
-    "key": "jiulong",
-    "name": "影視🆘九龙",
+    "key": "布蕾",
+    "name": "影視🆘布蕾",
     "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=九龙"
-},
+    "api": "./TV/drpy2.min.js",
+    "ext": "./TV/bulei.js"
+},	
 {
-    "key": "youyoujs",
+    "key": "悠悠弹幕",
     "name": "影視🆘悠悠",
     "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=悠悠"
+    "api": "./TV/drpy2.min.js",
+    "ext": "./TV/悠悠弹幕.js"
 },
 {
     "key": "xiaoxiongjs",
     "name": "影視🆘小熊",
     "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=小熊"
+    "api": "./TV/drpy2.min.js",
+    "ext": "./TV/小熊弹幕.js"
 },
 {
     "key": "jurenjs",
     "name": "影視🆘巨人",
     "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=巨人"
+    "api": "./TV/drpy2.min.js",
+    "ext": "./TV/巨人弹幕.js"
+},
+{
+    "key": "ceslllk",
+    "name": "影視🆘虎斑",
+    "type": 3,
+    "api": "./TV/drpy2.min.js",
+    "ext": "./TV/小虎斑弹幕.js"
+},
+{
+    "key": "hipy_js_111tv",
+    "name": "影視🆘山妖",
+    "type": 3,
+    "api": "./TV/drpy2.min.js",
+    "ext": "./TV/111tv[自动].js"
 },
 {
     "key":"dr_360",
@@ -81,7 +95,7 @@
 },
 {
     "key":"dr_优酷",
-    "name":"優酷┃官方",
+    "name":"優酷🆑官方",
     "type":3,
     "api": "./TV/drpy2.min.js",
     "order_num": 0,
@@ -318,7 +332,7 @@
 },
 {
     "key": "hipy_js_星空影院",
-    "name": "🍥星空🆚影院",
+    "name": "星空🆚影院",
     "type": 3,
     "api": "./TV/drpy2.min.js",
     "ext": "./TV/星空影院.js"
