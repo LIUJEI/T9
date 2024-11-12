@@ -3,25 +3,22 @@
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
 "sites":[
-
-{
-    "key": "hipy_js_荐片",
-    "name": "🎬┣影視┫荐片",
-    "type": 3,
-    "api": "./TV/drpy2.min.js",
-    "order_num": 0,
-    "ext": "./TV/荐片.js"
-},
 {
     "key": "drpy_js_豆瓣",
-    "name": "🎬┣豆瓣┫导航",
+    "name": "🎬┣豆瓣┫导航┃",
     "type":3,
-    "searchable":0,
-    "changeable":1,
-    "quickSearch":0,
-    "filterable":0,
-    "api":"./TV/douban.js"
+    "api": "./TV/drpy2.min.js",
+    "ext":"./TV/douban.js"
 },
+{
+    "key":"csp_豆瓣",
+    "name":"🎬┣豆瓣┫预告┃",
+    "type":3,
+    "api":"csp_XBPQ",
+    "playerType":2,
+    "ext": "./Lib/豆瓣预告.json"
+},
+
 {
     "key": "布蕾",
     "name": "影視🆘布蕾",
@@ -125,6 +122,14 @@
     "type": 3,
     "api": "./TV/drpy2.min.js",
     "ext": "./TV/guazi.js"
+},
+{
+    "key": "hipy_js_荐片",
+    "name": "影視🆚荐片",
+    "type": 3,
+    "api": "./TV/drpy2.min.js",
+    "order_num": 0,
+    "ext": "./TV/荐片.js"
 },
 {
     "key": "hipy_js_fxztg",
@@ -429,13 +434,6 @@
     "type": 3,
     "api": "./TV/drpy2.min.js",
     "ext": "./TV/西瓜影院.js"
-},
-{
-    "key":"drpy_js_米爱影视",
-    "name":"米爱🆚影视",
-    "type":3,
-    "api": "./TV/drpy2.min.js",
-    "ext":"./TV/米爱影视.js"
 },
 {
     "key": "hipy_js_豆角网",
