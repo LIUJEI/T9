@@ -19,7 +19,7 @@ class Spider(Spider):
 	def homeContent(self,filter):
 		result = {}
 		cateManual = {
-			"全部": "",
+			"💜全部": "",
 			"足球": "Football",
 			"篮球": "Basketball",
 			"NBA": "NBA",
@@ -99,7 +99,7 @@ class Spider(Spider):
 			"vod_content": ''
 		}
 		playUrl = '{0}${1}#'.format(typeName, purl)
-		vod['vod_play_from'] = '🌸荷城茶秀接口🌸企鹅线路'
+		vod['vod_play_from'] = '🌸琉芸专享🌸企鹅线路'
 		vod['vod_play_url'] = playUrl
 
 		result = {
