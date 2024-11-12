@@ -15,9 +15,12 @@
 {
     "key": "drpy_js_豆瓣",
     "name": "🎬┣豆瓣┫导航",
-    "type": 3,
-    "api": "./TV/dy2.js",
-    "ext": "./TV/douban.js"
+    "type":3,
+    "searchable":0,
+    "changeable":1,
+    "quickSearch":0,
+    "filterable":0,
+    "api":"./TV/douban.js"
 },
 {
     "key": "布蕾",
