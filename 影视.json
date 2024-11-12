@@ -183,13 +183,6 @@
     "ext": "KhYJ00ye42lr+7UsoxLsfea0p0H5SUkT7Tv/+ACyPvFQ+ozQDB0SI/NCeN59w0RiNzIKjBHQR9I/4GBIAlWmFKcvyM+yqtiPTwaxfs74YG+PHrb7VfKDLVFb0luKJl2gZ5pIVjIwVQNUCt5TAXutZxNBtlKGin+L/4vCsOIjR2r16dqyQwlpOKySq4NGGkKeA48tTxR+emOxn/qGPt5xjInFeLJXMvYxdp47pOKOA4Oj4LJnJ+ezEzScDoT2IASN0Rvl2ZneGEGkqlDU8NquYUP/svq1zScEYCpobKdg0ILB7Hba+5cMwtlnjGiHyCaM9dx+z+cVzD9cSTo/aL5gSoAPT4QzkFxezSARli9nVDmnS0MrY/NhiexS8AE+1et9"
 },
 {
-    "key": "兄弟影视",
-    "name": "💮兄弟☪影視",
-    "type": 3,
-    "api": "csp_AppGetApp",
-    "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+s4eQhuLBs4vVhslYH/yyPXePZ1AgNT8ZuBCcfE2LpJ19OKKPIvs+pt4Z/yzVA=="
-},
-{
     "key": "csp_0JPYY",
     "name": "💮金牌☪影院",
     "type": 3,
@@ -219,15 +212,6 @@
     "name": "💮瓜子☪影院",
     "type": 3,
     "api": "csp_AppGZ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
-    "key": "奇优影视",
-    "name": "💮奇优☪影視",
-    "type": 3,
-    "api": "csp_Qiyou",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -401,46 +385,69 @@
     "style": {"type": "rect","ratio": 1.433}
 },
 {
-	"key": "布蕾",
-	"name": "💝布蕾☪弹幕",
-	"type": 3,
-	"api": "./TV/drpy2.min.js",
-	"ext": "./TV/bulei.js"
+    "key": "drpy_js_黑木耳资源",
+    "name": "💝木耳☪弹幕",
+    "type": 3,
+    "api": "./TV/drpy2.min.js",
+    "ext": "./TV/木耳.js",
+    "danmu": true
+},
+{
+    "key":"js兄弟影视",
+    "name":"💝兄弟☪弹幕",
+    "type":3,
+    "api":"./TV/drpy2.min.js",
+    "ext":"./TV/兄弟.js",
+    "danmu": true
+},
+
+{
+    "key": "布蕾",
+    "name": "💝布蕾☪弹幕",
+    "type": 3,
+    "api": "./TV/drpy2.min.js",
+    "ext": "./TV/bulei.js",
+    "danmu": true
 },	
 {
     "key": "悠悠弹幕",
     "name": "💝悠悠☪弹幕",
     "type": 3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/悠悠弹幕.js"
+    "ext": "./TV/悠悠弹幕.js",
+    "danmu": true
 },
 {
     "key": "xiaoxiongjs",
     "name": "💝小熊☪弹幕",
     "type": 3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/小熊弹幕.js"
+    "ext": "./TV/小熊弹幕.js",
+    "danmu": true
 },
 {
     "key": "jurenjs",
     "name": "💝巨人☪弹幕",
     "type": 3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/巨人弹幕.js"
+    "ext": "./TV/巨人弹幕.js",
+    "danmu": true
 },
 {
     "key": "ceslllk",
     "name": "💝虎斑☪弹幕",
     "type": 3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/小虎斑弹幕.js"
+    "ext": "./TV/小虎斑弹幕.js",
+    "danmu": true
 },
 {
-	"key": "hipy_js_111tv",
-	"name": "💝山妖☪弹幕",
-	"type": 3,
-	"api": "./TV/drpy2.min.js",
-	"ext": "./TV/111tv[自动].js"
+    "key": "hipy_js_111tv",
+    "name": "💝山妖☪弹幕",
+    "type": 3,
+    "api": "./TV/drpy2.min.js",
+    "ext": "./TV/111tv[自动].js",
+    "danmu": true
 },
 {
     "key": "三六零弹幕",
