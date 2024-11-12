@@ -3,7 +3,21 @@
    "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
 "sites": [
-
+{
+    "key": "drpy_js_豆瓣",
+    "name": "🎬┣豆瓣┫导航┃",
+    "type":3,
+    "api": "./TV/drpy2.min.js",
+    "ext":"./TV/douban.js"
+},
+{
+    "key":"csp_豆瓣",
+    "name":"🎬┣豆瓣┫预告┃",
+    "type":3,
+    "api":"csp_XBPQ",
+    "playerType":2,
+    "ext": "./Lib/豆瓣预告.json"
+},
 {
     "key":"fxz小猫咪",
     "name":"🍊┣猫咪┫快播",
@@ -28,7 +42,7 @@
     "categories": ["电影","电视剧","国产剧","国产综艺","动画电影","短剧"]
 },
 
-{"key": "墨白影视","name": "🌠┣墨白┫快播","type": 1,"api": "https://nm.xxxc137.top/api.php/provide/vod/"},
+{"key": "墨白影视","name": "🍊┣墨白┫快播","type": 1,"api": "https://nm.xxxc137.top/api.php/provide/vod/"},
 {"key": "黑墙影视","name": "🌠┣黑墙┫快播","type": 1,"api": "https://blackwallvideo.online/api.php/provide/vod/"},
 {"key": "小目标资","name": "🌠┣目标┫快播","type": 1,"api": "https://tv.xmb.app/api.php/provide/vod/"},
 {"key": "鸣人资源","name": "🌠┣鸣人┫采集","type": 1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list"},
