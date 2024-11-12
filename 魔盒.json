@@ -2,16 +2,12 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
 
   "warningText":"💕永久完全免费，切勿付费购买💕",  
-
-  
   "spider": "./JAR/7Cspider.jar;md5;7c6313a06cdbfc2df09723838e3d14a8",
   "wallpaper": "https://yun.chuqiuyu.tk",
 
 //数据接口====================================网站===============================================
 
 "sites": [
-
-
 {
     "key":"csp_魔盒",
     "name":"┣☪琉✿芸┫魔盒┃",
@@ -96,6 +92,84 @@
     "分类url": "https://nuu.su/x/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
     "分类": "🏮劉氏-电影$1#剧集$2#动漫$4#综艺$3#爽剧$5#记录$6"}
 },
+{
+    "key":"短剧tv",
+    "name":"短剧网吧",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext":{
+    "搜索链接":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
+    "线路标题":"<h3*>&&</h3>",
+    "线路数组":"\"more text-muted pull-right\">&&</ul>",
+    "播放数组":"\"more text-muted pull-right\">&&</ul>",
+    "播放链接":"http+://www.duanjutv.cc+href='&&'",
+    "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23",
+    "分类链接":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m"}
+},  
+{
+    "key": "csp_Nmys",
+    "name": "木耳短剧",
+    "type": 3,
+    "api": "csp_XBPQ", 
+    "ext":{
+  "站名": "黑木耳",
+  "头部集合": "User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1#authority$heimuer.tv#referer$https://heimuer.tv/",
+  "分类": "虐恋短剧&逆袭短剧&神豪短剧&重生短剧&甜宠短剧",
+  "分类值": "45&46&47&49&50&53&56&13&10&23&12&34&25&7&8&11&21&30&14&29&15&16&28&38&39&40&41&42&57&58&60",
+  "分类url": "https://heimuer.tv/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
+  "数组二次截取": "list\":[&&]",
+  "数组": "{&&}",
+  "图片": "vod_pic\"*\"&&\"",
+  "标题": "vod_name\"*\"&&\"",
+  "副标题": "vod_remarks\"*\"&&\"",
+  "链接": "https://heimuer.tv/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
+  "搜索url": "https://heimuer.tv/api.php/provide/vod/?ac=detail&wd={wd}",
+  "搜索模式": "1",
+  "搜索二次截取": "list\":[&&]",
+  "搜索数组": "{&&}",
+  "搜索图片": "vod_pic\"*\"&&\"",
+  "搜索标题": "vod_name\"*\"&&\"",
+  "搜索副标题": "vod_remarks\"*\"&&\"",
+  "搜索链接": "https://heimuer.tv/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
+  "影片类型": "vod_class\"*\"&&\"",
+  "导演": "vod_director\"*\"&&\"",
+  "主演": "vod_actor\"*\"&&\"",
+  "简介": "vod_content\"*\"&&\"",
+  "线路二次截取": "\"list\":[&&]",
+  "线路数组": "\"vod_play_from\":&&,",
+  "线路标题": "\"&&\"",
+  "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
+  "播放二次截取": "",
+  "播放列表": "表&&表",
+  "播放标题": "题&&题",
+  "播放链接": "链&&链+?sku=OWY3ZDA4ZjVjYzY3YmRhYjM5NTUwYzEyZWRjNjUyZWM1NjQ2ZGRjYTVhMGVkM2Nh&p=1&sign=9a69d1563936ead3677623722660c4d9",
+   "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://heimuer.tv/#Cookie$PHPSESSID=t9a0fl2ngh4t175j3995v2669d",
+  "嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com"}  
+},
+{
+    "key": "剧吧🇨🇳短剧",
+    "name": "剧吧短剧",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "主演": "主演:&&</div>",
+    "简介": "【琉芸】提醒您,请勿相信影片中的广告，以免上当受骗！+<p>&&</p>",
+    "分类url": "https://www.duanju8.cc/show/{cateId}--{by}------{catePg}---.html;;ar1",
+    "分类": "恋爱&反转&悬疑&穿越&古装&都市",
+    "分类值": "lianai&fanzhuan&xuanyi&chuanyue&guzhuang&dushi"}
+}, 
+{
+    "key": "嘟嘟🇨🇳短剧",
+    "name": "嘟嘟短剧",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "简介": "【琉芸】提醒您,请勿相信影片中的广告，以免上当受骗！+style=\"display: none;\"&&</span>",
+    "线路标题": "琉芸专享",
+    "分类": "全部$qb#言情$yq#古代$dg#都市$ds",
+    "分类url": "https://m.pangdo.com/{cateId}/list_{catePg}.html"}
+},
+
 {
     "key": "星辰xBPQ",
     "name": "正版🍁网站星辰",
