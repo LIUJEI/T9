@@ -66,12 +66,6 @@
     "ext":"./Lib/企鹅体育.py"
 },
 {
-    "key": "csp_荐片",
-    "name": "💮影視☪荐片",
-    "type": 3,
-    "api": "csp_Jianpian"
-},
-{
     "key":"热门",
     "name":"💮热门☪秒播",
     "type":3,
@@ -215,6 +209,12 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
+},
+{
+    "key": "csp_荐片",
+    "name": "💮影視☪荐片",
+    "type": 3,
+    "api": "csp_Jianpian"
 },
 {
     "key": "真心影视",
@@ -389,65 +389,56 @@
     "name": "💝木耳☪弹幕",
     "type": 3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/木耳.js",
-    "danmu": true
+    "ext": "{./TV/木耳.js","danmu": true}
 },
 {
     "key":"js兄弟影视",
     "name":"💝兄弟☪弹幕",
     "type":3,
     "api":"./TV/drpy2.min.js",
-    "ext":"./TV/兄弟.js",
-    "danmu": true
+    "ext":"{./TV/兄弟.js","danmu": true}
 },
-
 {
     "key": "布蕾",
     "name": "💝布蕾☪弹幕",
     "type": 3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/bulei.js",
-    "danmu": true
+    "ext": "{./TV/bulei.js","danmu": true}
 },	
 {
     "key": "悠悠弹幕",
     "name": "💝悠悠☪弹幕",
     "type": 3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/悠悠弹幕.js",
-    "danmu": true
+    "ext": "{./TV/悠悠弹幕.js","danmu": true}
 },
 {
     "key": "xiaoxiongjs",
     "name": "💝小熊☪弹幕",
     "type": 3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/小熊弹幕.js",
-    "danmu": true
+    "ext": "{./TV/小熊弹幕.js","danmu": true}
 },
 {
     "key": "jurenjs",
     "name": "💝巨人☪弹幕",
     "type": 3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/巨人弹幕.js",
-    "danmu": true
+    "ext": "{./TV/巨人弹幕.js","danmu": true}
 },
 {
     "key": "ceslllk",
     "name": "💝虎斑☪弹幕",
     "type": 3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/小虎斑弹幕.js",
-    "danmu": true
+    "ext": "{./TV/小虎斑弹幕.js","danmu": true}
 },
 {
     "key": "hipy_js_111tv",
     "name": "💝山妖☪弹幕",
     "type": 3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/111tv[自动].js",
-    "danmu": true
+    "ext": "{./TV/111tv[自动].js","danmu": true}
 },
 {
     "key": "三六零弹幕",
@@ -461,40 +452,35 @@
     "name":"💝騰訊☪弹幕",
     "type":3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/QQtv.js",
-    "danmu": true
+    "ext": "{./TV/QQtv.js","danmu": true}
 },
 {
     "key":"dr_芒果",
     "name":"💝芒果☪弹幕",
     "type":3,
     "api": "./TV/drpy2.min.js",
-    "ext":"./TV/MGtv.js",
-    "danmu": true
+    "ext":"{./TV/MGtv.js","danmu": true}
 },
 {
     "key":"dr_奇异",
     "name":"💝奇藝☪弹幕",
     "type":3,
     "api": "./TV/drpy2.min.js",
-    "ext":"./TV/AQItv.js",
-    "danmu": true
+    "ext":"{./TV/AQItv.js","danmu": true}
 },
 {
     "key":"dr_优酷",
     "name":"💝優酷☪弹幕",
     "type":3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/yKtv.js",
-    "danmu": true
+    "ext": "{./TV/yKtv.js","danmu": true}
 },
 {
     "key":"dr_搜狗",
     "name":"💝搜狗☪弹幕",
     "type":3,
     "api": "./TV/drpy2.min.js",
-    "ext":"./TV/SGtv.js",
-    "danmu": true
+    "ext":"{./TV/SGtv.js","danmu": true}
 },
 {
     "key": "糯米弹幕",
