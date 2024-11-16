@@ -34,7 +34,7 @@
   "key": "hipy_js_36直播[密]",
   "name": "36直播",
   "type": 3,
-  "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+  "api": "./TV/drpy2.min.js",
   "order_num": 0,
   "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/36直播[密].js"
 },
@@ -42,7 +42,7 @@
   "key": "hipy_js_29片库[密]",
   "name": "29片库",
   "type": 3,
-  "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+  "api": "./TV/drpy2.min.js",
   "order_num": 0,
   "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/29片库[密].js"
 },
@@ -171,148 +171,134 @@
   "quickSearch": 0
 },   
 {
-  "key": "采集A（AIvin）",
-  "name": "撸铁🥥椰子",
-  "type": 0,
-  "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
+   "key": "采集A（AIvin）",
+   "name": "撸铁🥥椰子",
+   "type": 0,
+   "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+   "playerType": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
 },   
 {
-  "key": "采集D(Sm)",
-  "name": "撸铁🧅洋葱",
-  "type": 0,
-  "api": "https://api.maozyapi.com/inc/api.php"
+   "key": "采集D(Sm)",
+   "name": "撸铁🧅洋葱",
+   "type": 0,
+   "api": "https://api.maozyapi.com/inc/api.php"
 },   
 {
-  "key": "采集E(黄AV)",
-  "name": "撸铁🥑鳄梨",
-  "type": 0,
-  "api": "https://www.pgxdy.com/api/xml.php",
-  "searchable": 0,
-  "quickSearch": 0
+   "key": "采集E(黄AV)",
+   "name": "撸铁🥑鳄梨",
+   "type": 0,
+   "api": "https://www.pgxdy.com/api/xml.php",
+   "searchable": 0,
+   "quickSearch": 0
 },
 {
-  "key": "采集♥️(鸡坤)",
-  "name": "撸铁🍎苹果",
-  "type": 1,
-  "api": "https://jkunzyapi.com/api.php/provide/vod/",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
+   "key": "采集♥️(鸡坤)",
+   "name": "撸铁🍎苹果",
+   "type": 1,
+   "api": "https://jkunzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
 },
 {
-  "key": "采集G(香奶儿)",
-  "name": "撸铁🍒樱桃",
-  "type": 0,
-  "api": "https://www.gdlsp.com/api/xml.php ",
-  "searchable": 1,
-  "changeable": 1
+   "key": "采集G(香奶儿)",
+   "name": "撸铁🍒樱桃",
+   "type": 0,
+   "api": "https://www.gdlsp.com/api/xml.php ",
+   "searchable": 1,
+   "changeable": 1
 },
 {
-  "key": "bttcj.com博天堂",
-  "name": "撸铁🥔土豆",
-  "type": 0,"style":{ "type":"rect", "ratio":1.485 },
-  "api": "http://bttcj.com/inc/sapi.php",
-  "searchable": 1
+   "key": "bttcj.com博天堂",
+   "name": "撸铁🥔土豆",
+   "type": 0,"style":{ "type":"rect", "ratio":1.485 },
+   "api": "http://bttcj.com/inc/sapi.php",
+   "searchable": 1
 }, 
 {
-  "key":"*环亚资源",
-  "name":"撸铁🌶️辣椒",
-  "type": 0,
-  "style":{ "type":"rect", "ratio":1.485 },
-  "api":"http://wmcj8.com/inc/sapi.php",
-  "searchable":0,"quickSearch":0
+   "key":"*环亚资源",
+   "name":"撸铁🌶️辣椒",
+   "type": 0,
+   "style":{ "type":"rect", "ratio":1.485 },
+   "api":"http://wmcj8.com/inc/sapi.php",
+   "searchable":0,"quickSearch":0
 },
 {
-  "key": "hipy_js_九妖仓库[密]",
-  "name": "撸铁🥝猕猴",
-  "type": 3,
-	"api": "https://weixine.net/js/lib/drpy2.min.js",
-	"ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/九妖仓库[密].js"
+   "key": "hipy_js_九妖仓库[密]",
+   "name": "撸铁🥝猕猴",
+   "type": 3,
+   "api": "./TV/drpy2.min.js",
+   "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/九妖仓库[密].js"
 },
 {
-  "key": "hipy_js_一点视频[密]",
-  "name": "撸铁🌰栗子",
-  "type": 3,
-	"api": "https://weixine.net/js/lib/drpy2.min.js",
-	"ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/一点视频[密].js"
+   "key": "hipy_js_一点视频[密]",
+   "name": "撸铁🌰栗子",
+   "type": 3,
+   "api": "./TV/drpy2.min.js",
+   "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/一点视频[密].js"
 },
 {
-	"key": "hipy_js_爱爱影院[密]",
-	"name": "爱爱",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/爱爱影院[密].js"
+    "key": "hipy_js_爱爱影院[密]",
+    "name": "爱爱",
+    "type": 3,
+    "api": "./TV/drpy2.min.js",
+    "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/爱爱影院[密].js"
 },
 {
-	"key": "hipy_js_番号资源[密]",
-	"name": "番号",
-	"type": 3,
-	"api": "https://weixine.net/js/lib/drpy2.min.js",
-	"ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/番号资源[密].js"
+    "key": "hipy_js_番号资源[密]",
+    "name": "番号",
+    "type": 3,
+    "api": "./TV/drpy2.min.js",
+    "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/番号资源[密].js"
 },
 {
-	"key": "hipy_js_乐草TV[密]",
-	"name": "乐草TV",
-  "type": 3,
-	"api": "https://weixine.net/js/lib/drpy2.min.js",
-	"ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/乐草TV[密].js"
+    "key": "hipy_js_乐草TV[密]",
+    "name": "乐草TV",
+    "type": 3,
+    "api": "./TV/drpy2.min.js",
+    "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/乐草TV[密].js"
 },
 {
-	"key": "hipy_js_色库[密]",
-	"name": "色库",
-	"type": 3,
-	"api": "https://weixine.net/js/lib/drpy2.min.js",
-	"ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/色库[密].js"
+    "key": "hipy_js_色库[密]",
+    "name": "色库",
+    "type": 3,
+    "api": "./TV/drpy2.min.js",
+    "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/色库[密].js"
 },
 {
-	"key": "hipy_js_RJAV[密]",
-	"name": "RJAV",
-	"type": 3,
-	"api": "https://weixine.net/js/lib/drpy2.min.js",
-	"ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/RJAV[密].js"
+    "key": "hipy_js_RJAV[密]",
+    "name": "RJAV",
+    "type": 3,
+    "api": "./TV/drpy2.min.js",
+    "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/RJAV[密].js"
 },
 {
-	"key": "hipy_js_[密]RjAv",
-	"name": "RjAv",
-	"type": 3,
-	"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-	"ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/[密]RjAv.js"
+    "key": "hipy_js_[密]RjAv",
+    "name": "RjAv",
+    "type": 3,
+    "api": "./TV/drpy2.min.js",
+    "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/[密]RjAv.js"
 },
 {
-	"key": "hipy_js_采集之王[合]2",
-	"name": "成人[合集]",
-	"type": 3,
-	"api": "https://weixine.net/js/lib/drpy2.min.js",
-	"ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/采集之王[合].js?type=url&params=../json/采集[密]静态.json"
+    "key": "10",
+    "name": "📛精选自用且免费📛",
+    "api": "1",
+    "type": 3,
+    "filterable": 0,
+    "quickSearch": 0,
+    "searchable": 0
 },
 {
-	"key": "hipy_js_采集之王[合]1",
-	"name": "采王[合集]",
-	"type": 3,
-	"api": "https://weixine.net/js/lib/drpy2.min.js",
-	"ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/采集之王[合].js?type=url&params=../json/采集[zy]静态.json$1"
-},
-{
-  "key": "10",
-  "name": "📛精选自用且免费📛",
-  "api": "1",
-  "type": 3,
-  "filterable": 0,
-  "quickSearch": 0,
-  "searchable": 0
-},
-{
-  "key": "11",
-  "name": "📛请勿付费使用📛",
-  "api": "1",
-  "type": 3,
-  "filterable": 0,
-  "quickSearch": 0,
-  "searchable": 0
+    "key": "11",
+    "name": "📛请勿付费使用📛",
+    "api": "1",
+    "type": 3,
+    "filterable": 0,
+    "quickSearch": 0,
+    "searchable": 0
 }],
 
 "parses": [
