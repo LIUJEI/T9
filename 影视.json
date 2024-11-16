@@ -114,6 +114,14 @@
     "ext":"iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="
 },
 {
+    "key":"雨夜",
+    "name":"💮雨夜☪影視",
+    "type":3,
+    "api":"csp_Muou",
+    "jar":"http://cdn.qiaoji8.com/fix241030.jar",
+    "ext":"caHR0cDovL2FwcC55aXlpNTIxLnRvcC8="
+},
+{
     "key":"闪电",
     "name":"💮闪电☪影視",
     "type":3,
@@ -161,6 +169,14 @@
     "api": "csp_Frong",
     "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTd8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar"
+},
+{
+    "key":"bro",
+    "name":"💮铁剧☪影視",
+    "type":3,
+    "api":"csp_WebBr",
+    "jar":"http://47.99.102.252/jar/xc1112.zip",
+    "ext":"KhY021WelCEl+6MsvwnzaPusskysEhxc/znZ4AaiReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="
 },
 {
     "key": "追梦影视",
