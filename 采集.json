@@ -4,19 +4,19 @@
 
 "sites": [
 {
-    "key": "drpy_js_豆瓣",
-    "name": "🎬┣豆瓣┫导航┃",
-    "type":3,
-    "api": "./TV/drpy2.min.js",
-    "ext":"./TV/douban.js"
-},
-{
     "key":"csp_豆瓣",
     "name":"🎬┣豆瓣┫预告┃",
     "type":3,
     "api":"csp_XBPQ",
     "playerType":2,
     "ext": "./Lib/豆瓣预告.json"
+},
+{
+    "key": "drpy_js_豆瓣",
+    "name": "🎬┣豆瓣┫导航┃",
+    "type":3,
+    "api": "./TV/drpy2.min.js",
+    "ext":"./TV/douban.js"
 },
 {
     "key":"fxz小猫咪",
@@ -27,13 +27,6 @@
 
 },
 {
-    "key": "农民采集",
-    "name": "🍊┣悯农┫快播",
-    "type": 1,
-    "api": "https://www.xncnews.com/api.php/provide/vod/",
-    "categories": ["电影","连续剧","国产剧","综艺","动漫","短剧"]
-},
-{
     "key": "华为吧资源",
     "name": "🍊┣华为┫快播",
     "type": 1,
@@ -41,17 +34,24 @@
     "playurl": "https://dp.hw8.live/player/?url=",
     "categories": ["电影","电视剧","国产剧","国产综艺","动画电影","短剧"]
 },
-
+{
+    "key": "Bilfun",
+    "name": "🍊┣柒之┫社区",
+    "type": 1,
+    "api": "https://cdk.centos.chat/api.php/provide/vod",
+    "categories": ["柒之社","电影","连续剧","综艺","动漫","短剧","预告片"]
+},
 {"key": "墨白影视","name": "🍊┣墨白┫快播","type": 1,"api": "https://nm.xxxc137.top/api.php/provide/vod/"},
+{"key": "柠檬资源","name": "🍊┣柠檬┫采集","type": 1,"api": "https://www.nmnm.cc/api.php/provide/vod/"},
+{"key": "九零资源","name": "🍊┣九零┫采集","type": 1,"api": "https://oknnews.com/api.php/provide/vod/"},
+{"key": "策驰资源","name": "🍊┣策驰┫采集","type": 1,"api": "https://www.39kan.com/api.php/provide/vod/"},
+{"key": "一舟影院","name": "🍊┣一舟┫采集","type": 1,"api": "http://www.mandao.site/api.php/provide/vod/"},
+{"key": "无忧资源","name": "🍊┣无忧┫采集","type": 1,"api": "https://www.wyvod.com/api.php/provide/vod/"},   
+{"key": "四圈资源","name": "🍊┣四个┫圈圈","type":1,"api":"https://pg.fenwe078.cf/api.php/provide/vod/","categories":[]},
 {"key": "黑墙影视","name": "🌠┣黑墙┫快播","type": 1,"api": "https://blackwallvideo.online/api.php/provide/vod/"},
-{"key": "小目标资","name": "🌠┣目标┫快播","type": 1,"api": "https://tv.xmb.app/api.php/provide/vod/"},
 {"key": "鸣人资源","name": "🌠┣鸣人┫采集","type": 1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list"},
-{"key": "何以资源","name": "🌠┣何以┫快播","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/"},
 {"key": "影图影视","name": "🌠┣影图┫影视","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/"},
-{"key": "星星影视","name": "🌠┣星星┫影视","type": 1,"api": "http://vip.smzj6.vip/api.php/provide/vod/"},
 {"key": "三八资源","name": "🌠┣三八┫采集","type": 1,"api": "https://vod38.com/api.php/provide/vod/"},
-{"key": "淘片采集","name": "🌠┣淘片┫采集","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html"},
-{"key": "飞速资源","name": "🌠┣飞速┫采集","type": 1,"api": "https://feisuzy.com/api.php/provide/vod/"},
 {"key": "皇冠影视","name": "🌠┣皇冠┫快播","type": 1,"api": "https://hong.hgyx.vip/api.php/provide/vod/"},
 {
   "key": "三六资源",
@@ -61,7 +61,21 @@
   "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
   "categories": ["古装片","国产剧","大陆综艺","爽文短剧","现代都市","年代穿越","古装仙侠","成长逆袭"] 
 },
-
+{
+	"key": "zycj_天天",
+	"name": "🌠┣天天┫影视",
+	"type": 1,
+	"api": "https://api.1080zyku.com/inc/apijson.php",
+	"playUrl": "",
+	"categories": [  ]
+},
+{
+  "key":"飘零影院",
+  "name":"🌠┣飘零┫天涯",
+  "type":1,
+  "api":"https://p2100.net/api.php/provide/vod/",
+  "playUrl":""
+},
 {
   "key": "优质资源",
   "name": "🌠┣优质┫采集",
@@ -97,13 +111,6 @@
   "type": 1,
   "api": "https://api.ukuapi.com/api.php/provide/vod/?ac=list",
   "playurl": "https://api.ukubf.com/m3u8/?url="
-},
-{
-  "key": "快看采集",
-  "name": "️🌠┣快看┫采集",
-  "type": 1,
-  "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
-  "playurl": "https://kkzyplayer.com/player/?url="
 },
 {
   "key": "最大资源",
@@ -209,8 +216,27 @@
   "type": 1,
   "api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list",
   "playurl": "https://jx.huishij.com/yun/?url="
+},
+{ 
+  "key": "聚合", 
+  "name": "🈴️聚合解析", 
+  "type": 3, 
+  "api": "csp_AppYsV2", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 1, 
+  "ext": "https://www.tvkuys.xyz/api.php/app/"
 }, 
-
+{
+  "key":"荔枝",
+  "name":"🈴️荔枝解析",
+  "type":3,
+  "api":"csp_AppYsV2",
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 1, 
+  "ext":"http://api.zjys.vip/api.php/iptv/vod/"
+},
 {
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
@@ -221,7 +247,7 @@
 },
 {
     "key":"本地",
-    "name": "🇨🇳┣☪琉✿芸┫【更新时间:10.04】",
+    "name": "🇨🇳┣☪琉✿芸┫【更新时间:11.18】",
     "type":3,
     "api":"csp_LocalFile"
 }],
@@ -348,7 +374,4 @@
 {
 	"name": "本地嗅探器直播",
 	"urls": ["proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"]}
-]
-}
-]
-}
+]}]}
