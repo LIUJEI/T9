@@ -4,13 +4,6 @@
 
 "sites":[
 {
-    "key": "drpy_js_豆瓣",
-    "name": "🎬┣豆瓣┫导航┃",
-    "type":3,
-    "api": "./TV/drpy2.min.js",
-    "ext":"./TV/douban.js"
-},
-{
     "key":"csp_豆瓣",
     "name":"🎬┣豆瓣┫预告┃",
     "type":3,
@@ -18,7 +11,13 @@
     "playerType":2,
     "ext": "./Lib/豆瓣预告.json"
 },
-
+{
+    "key": "drpy_js_豆瓣",
+    "name": "🎬┣豆瓣┫导航┃",
+    "type":3,
+    "api": "./TV/drpy2.min.js",
+    "ext":"./TV/douban.js"
+},
 {
     "key": "布蕾",
     "name": "影視🆘布蕾",
@@ -31,7 +30,7 @@
     "name": "影視🆘悠悠",
     "type": 3,
     "api": "./TV/drpy2.min.js",
-    "ext": "./TV/悠悠弹幕.js"
+    "ext": "./TV/优酷弹幕.js"
 },
 {
     "key": "xiaoxiongjs",
