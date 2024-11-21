@@ -79,7 +79,6 @@
     "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "http://47.99.102.252/drpy_js/bulei.js"
 },
-
 {
     "key":"热门",
     "name":"💮热门☪秒播",
@@ -89,12 +88,12 @@
     "ext":"caHR0cDovL3YucmJvdHYuY24="
 },
 {
-    "key":"看看",
-    "name":"💮看看☪影視",
+    "key":"人人",
+    "name":"💮人人☪影視",
     "type":3,
-    "api":"csp_qiao3",
-    "jar":"http://cdn.qiaoji8.com/fix241030.jar",
-    "ext":"caHR0cDovLzExMS4xNzMuMTA2LjIxOTo4ODUwfDlhOTI0Y2JmMzk2Y2Y1ZTd8OWE5MjRjYmYzOTZjZjVlNw"
+    "api":"csp_Xdai",
+    "jar": "http://cdn.qiaoji8.com/fix241114.jar",
+    "ext":"caHR0cDovLzExMC40Mi40OC4xNjE6MTIzNDd8MzFjOTNjN2JjMjExZDc3OHwzMWM5M2M3YmMyMTFkNzc4"
 },
 {
     "key":"龙卷",
@@ -111,22 +110,6 @@
     "api":"csp_Nmvod",
     "jar":"http://cdn.qiaoji8.com/fix241030.jar",
     "ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
-},
-{
-    "key":"乐观",
-    "name":"💮乐观☪影視",
-    "type":3,
-    "api":"csp_Xdai",
-    "jar":"http://cdn.qiaoji8.com/fix241030.jar",
-    "ext":"caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"
-},
-{
-    "key":"欢观",
-    "name":"💮欢观☪影視",
-    "type":3,
-    "api":"csp_AppYsV2",
-    "jar":"http://cdn.qiaoji8.com/fix241030.jar",
-    "ext":"iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="
 },
 {
     "key":"雨夜",
@@ -161,12 +144,36 @@
     "ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"
 },
 {
-    "key":"星星",
-    "name":"💮客星☪影視",
+    "key":"乐观",
+    "name":"💮乐观☪影視",
     "type":3,
     "api":"csp_Xdai",
     "jar":"http://cdn.qiaoji8.com/fix241030.jar",
-    "ext":"caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="
+    "ext":"caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"
+},
+{
+    "key":"欢观",
+    "name":"💮欢观☪影視",
+    "type":3,
+    "api":"csp_AppYsV2",
+    "jar":"http://cdn.qiaoji8.com/fix241030.jar",
+    "ext":"iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="
+},
+{
+    "key":"看看",
+    "name":"💮看看☪影視",
+    "type":3,
+    "api":"csp_qiao3",
+    "jar":"http://cdn.qiaoji8.com/fix241114.jar",
+    "ext":"caHR0cDovLzExMS4xNzMuMTA2LjIxOTo4ODUwfDlhOTI0Y2JmMzk2Y2Y1ZTd8OWE5MjRjYmYzOTZjZjVlNw"
+},
+{
+    "key":"兴旺",
+    "name":"💮兴旺☪秒播",
+    "type":3,
+    "api":"csp_Xdai",
+    "jar":"http://cdn.qiaoji8.com/fix241114.jar",
+    "ext":"caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
 },
 {
     "key":"木叶",
@@ -181,17 +188,10 @@
     "key":"csp_凡人追剧",
     "name":"💮樊星☪影視",
     "type":3,
-    "api": "csp_Frong",
-    "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTd8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
-    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar"
-},
-{
-    "key":"bro",
-    "name":"💮铁剧☪影視",
-    "type":3,
-    "api":"csp_WebBr",
-    "jar":"http://47.99.102.252/jar/xc1112.zip",
-    "ext":"KhY021WelCEl+6MsvwnzaPusskysEhxc/znZ4AaiReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="
+    "api":"csp_Frong",
+    "jar": "http://cdn.qiaoji8.com/fix241114.jar",
+    "ext":
+"FMy4wLjJ8aHR0cHM6Ly92aXAuMTIzcGFuLmNuLzE4MjY0MTAxNjkvZG9uZ3RhaS8xLnR4dHw0MmY3YTIwOXwyNXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx" 
 },
 {
     "key": "追梦影视",
