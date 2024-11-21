@@ -419,7 +419,7 @@
     "key": "drpy_js_黑木耳资源",
     "name": "💝木耳☪弹幕",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "./TV/木耳.js",
     "danmu": true
 },
@@ -427,23 +427,23 @@
     "key":"js兄弟影视",
     "name":"💝兄弟☪弹幕",
     "type":3,
-    "api":"./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext":"./TV/兄弟.js",
     "danmu": true
 },
 {
-    "key": "布蕾",
-    "name": "💝布蕾☪弹幕",
+    "key": "csp_饭团",
+    "name": "💝饭团☪弹幕",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
-    "ext": "./TV/bulei.js",
-    "danmu": true
-},	
+    "api": "csp_FanTuan",
+    "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+    "ext": "https://fantuan.vip/"
+},
 {
     "key": "悠悠弹幕",
     "name": "💝悠悠☪弹幕",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "./TV/悠悠弹幕.js",
     "danmu": true
 },
@@ -451,7 +451,7 @@
     "key": "xiaoxiongjs",
     "name": "💝小熊☪弹幕",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "./TV/小熊弹幕.js",
     "danmu": true
 },
@@ -459,7 +459,7 @@
     "key": "jurenjs",
     "name": "💝巨人☪弹幕",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "./TV/巨人弹幕.js",
     "danmu": true
 },
@@ -467,7 +467,7 @@
     "key": "ceslllk",
     "name": "💝虎斑☪弹幕",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "./TV/小虎斑弹幕.js",
     "danmu": true
 },
@@ -475,7 +475,7 @@
     "key": "hipy_js_111tv",
     "name": "💝山妖☪弹幕",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "./TV/111tv[自动].js",
     "danmu": true
 },
@@ -490,7 +490,7 @@
     "key":"dr_腾迅",
     "name":"💝騰訊☪弹幕",
     "type":3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "./TV/QQtv.js",
     "danmu": true
 },
@@ -498,7 +498,7 @@
     "key":"dr_芒果",
     "name":"💝芒果☪弹幕",
     "type":3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext":"./TV/MGtv.js",
     "danmu": true
 },
@@ -514,7 +514,7 @@
     "key":"dr_优酷",
     "name":"💝優酷☪弹幕",
     "type":3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "./TV/yKtv.js",
     "danmu": true
 },
@@ -522,7 +522,7 @@
     "key":"dr_搜狗",
     "name":"💝搜狗☪弹幕",
     "type":3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext":"./TV/SGtv.js",
     "danmu": true
 },
