@@ -31,22 +31,6 @@
   "style": {"type": "rect","ratio": 1.33}
 },
 {
-  "key": "hipy_js_36直播[密]",
-  "name": "36直播",
-  "type": 3,
-  "api": "./TV/drpy2.min.js",
-  "order_num": 0,
-  "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/36直播[密].js"
-},
-{
-  "key": "hipy_js_29片库[密]",
-  "name": "29片库",
-  "type": 3,
-  "api": "./TV/drpy2.min.js",
-  "order_num": 0,
-  "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/29片库[密].js"
-},
-{
   "key": "采集E(玉兔)",
   "name": "撸铁🍅番茄",
   "type": 1,
@@ -230,56 +214,72 @@
    "key": "hipy_js_九妖仓库[密]",
    "name": "撸铁🥝猕猴",
    "type": 3,
-   "api": "./TV/drpy2.min.js",
+   "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
    "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/九妖仓库[密].js"
 },
 {
    "key": "hipy_js_一点视频[密]",
    "name": "撸铁🌰栗子",
    "type": 3,
-   "api": "./TV/drpy2.min.js",
+   "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
    "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/一点视频[密].js"
+},
+{
+  "key": "hipy_js_36直播[密]",
+  "name": "36直播",
+  "type": 3,
+  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+  "order_num": 0,
+  "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/36直播[密].js"
+},
+{
+  "key": "hipy_js_29片库[密]",
+  "name": "29片库",
+  "type": 3,
+  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+  "order_num": 0,
+  "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/29片库[密].js"
 },
 {
     "key": "hipy_js_爱爱影院[密]",
     "name": "爱爱",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/爱爱影院[密].js"
 },
 {
     "key": "hipy_js_番号资源[密]",
     "name": "番号",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/番号资源[密].js"
 },
 {
     "key": "hipy_js_乐草TV[密]",
     "name": "乐草TV",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/乐草TV[密].js"
 },
 {
     "key": "hipy_js_色库[密]",
     "name": "色库",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/色库[密].js"
 },
 {
     "key": "hipy_js_RJAV[密]",
     "name": "RJAV",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/RJAV[密].js"
 },
 {
     "key": "hipy_js_[密]RjAv",
     "name": "RjAv",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/[密]RjAv.js"
 },
 {
