@@ -160,22 +160,6 @@
     "ext":"iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="
 },
 {
-    "key":"看看",
-    "name":"💮看看☪影視",
-    "type":3,
-    "api":"csp_qiao3",
-    "jar":"http://cdn.qiaoji8.com/fix241114.jar",
-    "ext":"caHR0cDovLzExMS4xNzMuMTA2LjIxOTo4ODUwfDlhOTI0Y2JmMzk2Y2Y1ZTd8OWE5MjRjYmYzOTZjZjVlNw"
-},
-{
-    "key":"兴旺",
-    "name":"💮兴旺☪秒播",
-    "type":3,
-    "api":"csp_Xdai",
-    "jar":"http://cdn.qiaoji8.com/fix241114.jar",
-    "ext":"caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
-},
-{
     "key":"木叶",
     "name":"💮木叶☪影視",
     "type":3,
@@ -414,6 +398,20 @@
     "api": "csp_AmuXiguaV2",
     "changeable": 0,
     "style":{ "type": "rect","ratio": 1.433}
+},
+{
+    "key": "探探",
+    "name": "💮影探🆘4K",
+    "type": 3,
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+    "ext": "http://47.99.102.252/js/yt.js"
+},
+{
+    "key": "布蕾",
+    "name": "💮影視🆘布蕾",
+    "type": 3,
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+    "ext": "http://47.99.102.252/drpy_js/bulei.js"
 },
 {
     "key": "csp_饭团",
