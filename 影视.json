@@ -682,28 +682,28 @@
     "key": "hipy_js_蓝莓短剧",
     "name": "♨️藍莓☪短劇",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/lanmei.js"
 },
 {
     "key": "hipy_js_星芽短剧",
     "name": "♨️星芽☪短劇",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/xingya.js"
 },
 {
     "key": "hipy_js_短剧天堂",
     "name": "♨️短剧☪天堂",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/短剧天堂.js"
 },
 {
     "key": "hipy_js_短剧TV网",
     "name": "♨️短剧☪TV网",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/短剧TV网.js"
 },
 {
