@@ -66,20 +66,6 @@
     "ext":"./Lib/企鹅体育.py"
 },
 {
-    "key": "探探",
-    "name": "💮影探🆘4K",
-    "type": 3,
-    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-    "ext": "http://47.99.102.252/js/yt.js"
-},
-{
-    "key": "布蕾",
-    "name": "💮影視🆘布蕾",
-    "type": 3,
-    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-    "ext": "http://47.99.102.252/drpy_js/bulei.js"
-},
-{
     "key":"热门",
     "name":"💮热门☪秒播",
     "type":3,
@@ -696,7 +682,7 @@
     "key": "hipy_js_短剧天堂",
     "name": "♨️短剧☪天堂",
     "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
     "ext": "./TV/短剧天堂.js"
 },
 {
