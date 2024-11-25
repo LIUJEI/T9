@@ -2,10 +2,14 @@
   "urls": [
    {
       "name": "🚦分享者🚦",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/001.json"
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/001.json"
     },
     {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+      "name": "📁潇洒📁"
+    },
+    {
+      "url": "https://d.kstore.dev/download/9877/FourD/api.json",
       "name": "📁潇洒📁"
     },
     {
@@ -45,6 +49,10 @@
       "name": "📁莱斯📁" 
     },
     {
+      "url": "https://git.acwing.com/xcz/xcz/-/raw/master/xcz.json",
+      "name": "📁小橙子📁" 
+    },
+    {
       "url": "https://2912.kstore.space/0506.json", 
       "name": "📁西夏📁" 
     },
@@ -53,11 +61,11 @@
       "name": "📁蜗牛📁"
     },
     {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/qgys/qgys/main/11.json",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/qgys/qgys/main/11.json",
       "name": "📁强哥📁"
     },	
     {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
       "name": "📁宝盒📁"
     },
     {
@@ -65,7 +73,7 @@
       "name": "📁不良帅📁"
     },
     {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
       "name": "📁荷城📁"
     },
     {
@@ -73,7 +81,7 @@
       "name": "📁T4线📁"
     },     
     {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json",
       "name": "📁高天📁"
     },
     {
@@ -81,11 +89,16 @@
       "name": "📁道长📁"
     }, 
     {
-      "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "url":"https://gh.aptv.app/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "📁香雅情📁"
+    }, 
+    {
+      "url":"https://ghproxy.cn/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "📁高天流云📁"
     },   
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/夜猫子.json",
       "name": "📁夜猫子📁"
     }]}
+
 
