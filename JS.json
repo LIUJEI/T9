@@ -15,7 +15,7 @@
     "key": "drpy_js_豆瓣",
     "name": "🎬┣豆瓣┫导航┃",
     "type":3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext":"./TV/douban.js"
 },
 {
@@ -185,7 +185,7 @@
     "name": "熊猫🆚TV",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "./TV/熊猫TV.js"
+    "ext": "./TV/熊猫.js"
 },
 {
     "key": "宝片视频_js",
