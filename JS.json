@@ -26,11 +26,11 @@
     "ext": "./TV/bulei.js"
 },	
 {
-    "key": "悠悠弹幕",
-    "name": "影視🆘悠悠",
+    "key": "探探",
+    "name": "影探🆘4K",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
-    "ext": "./TV/优酷弹幕.js"
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "./TV/影探.js"
 },
 {
     "key": "xiaoxiongjs",
