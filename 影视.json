@@ -389,14 +389,14 @@
     "key": "探探",
     "name": "💮影探🆘4K",
     "type": 3,
-    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+    "api": "./TV/drpy2.min.js",
     "ext": "./TV/影探.js"
 },
 {
     "key": "布蕾",
     "name": "💮影視🆘布蕾",
     "type": 3,
-    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+    "api": "./TV/drpy2.min.js",
     "ext": "./TV/布蕾.js"
 },
 {
@@ -419,7 +419,7 @@
     "key": "drpy_js_黑木耳资源",
     "name": "💝木耳☪弹幕",
     "type": 3,
-    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+    "api": "./TV/drpy2.min.js",
     "ext": "./TV/木耳.js",
     "danmu": true
 },
@@ -427,7 +427,7 @@
     "key":"js兄弟影视",
     "name":"💝兄弟☪弹幕",
     "type":3,
-    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+    "api": "./TV/drpy2.min.js",
     "ext":"./TV/兄弟.js",
     "danmu": true
 },
@@ -435,7 +435,7 @@
     "key": "xiaoxiongjs",
     "name": "💝小熊☪弹幕",
     "type": 3,
-    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+    "api": "./TV/drpy2.min.js",
     "ext": "./TV/小熊弹幕.js",
     "danmu": true
 },
@@ -443,7 +443,7 @@
     "key": "jurenjs",
     "name": "💝巨人☪弹幕",
     "type": 3,
-    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+    "api": "./TV/drpy2.min.js",
     "ext": "./TV/巨人弹幕.js",
     "danmu": true
 },
