@@ -67,7 +67,7 @@
 },
 {
     "key":"热门",
-    "name":"💮熱門☪影視",
+    "name":"💮熱門☪秒播",
     "type":3,
     "api":"csp_TTian",
     "jar": "http://cdn.qiaoji8.com/fix241114.jar",
