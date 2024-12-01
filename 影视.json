@@ -308,14 +308,13 @@
     "filterable": 1
 },
 {
-    "key": "奇优影视",
+     "key": "奇优影视",
     "name": "💮奇优☪影視",
     "type": 3,
     "api": "csp_Qiyou",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1,
-    "ext": "http://www.dyxz2.com/"
+    "filterable": 1
 },
 {
     "key": "韩小圈",
