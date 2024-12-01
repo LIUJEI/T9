@@ -67,10 +67,10 @@
 },
 {
     "key":"热门",
-    "name":"💮热门☪秒播",
+    "name":"💮熱門☪影視",
     "type":3,
     "api":"csp_TTian",
-    "jar":"http://cdn.qiaoji8.com/fix241030.jar",
+    "jar": "http://cdn.qiaoji8.com/fix241114.jar",
     "ext":"caHR0cDovL3YucmJvdHYuY24="
 },
 {
