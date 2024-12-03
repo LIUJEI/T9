@@ -3,8 +3,8 @@
 
     "warningText":"💕永久完全免费，切勿付费购买💕",  
 
-   "spider": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/spider1160.jar",
-    
+   "spider": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt",
+   //"spider": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/spider1160.jar",
  
     "lives": [{"name": "live2","type": 0,"url": "./lives/live2.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"}],
 
@@ -64,6 +64,48 @@
     "quickSearch":0,
     "filterable":1,
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/企鹅体育.py"
+},
+{
+    "key": "nm",
+    "name": "农民☪直连",
+    "type": 3,
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/农民直连.js"
+},
+{
+   "key": "ky1080",
+   "name": "酷云☪直连",
+   "type": 3,
+   "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/酷云直连.js"
+},
+{
+    "key": "华为吧",
+    "name": "华为☪直连",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/华为直连.js"
+},
+{
+    "key": "瓜子2影视",
+    "name": "瓜子☪直连",
+    "type": 3,
+    "changeable": 2,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/瓜子直连.js"
+},
+{
+    "key": "mgys",
+    "name": "芒果☪直连",
+    "type": 3,
+    "playerType": "2",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/芒果直连.js"
+},
+{
+    "key": "qqys",
+    "name": "腾讯☪直连",
+    "type": 3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/腾讯直连.js"
 },
 {
     "key":"热门",
@@ -164,17 +206,63 @@
 "FMy4wLjJ8aHR0cHM6Ly92aXAuMTIzcGFuLmNuLzE4MjY0MTAxNjkvZG9uZ3RhaS8xLnR4dHw0MmY3YTIwOXwyNXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx" 
 },
 {
-    "key": "追梦影视",
-    "name": "💮追梦☪影視",
+    "key":"剧评",
+    "name":"💮剧评☪影視",
+    "type":3,
+    "api":"csp_Jpys",
+    "jar": "http://cdn.qiaoji8.com/fix241202.jar",
+    "ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
+},
+{
+    "key":"星河",
+    "name":"💮星河☪影視",
+    "type":3,
+    "api":"csp_Muou",
+    "jar": "http://cdn.qiaoji8.com/fix241202.jar",
+    "ext":"caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzLw=="
+},
+{
+    "key":"现代",
+    "name":"💮现代☪影視",
+    "type":3,
+    "api":"csp_Xdai",
+    "jar": "http://cdn.qiaoji8.com/fix241202.jar",
+    "ext":"caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXx4ZHlzLnZpcHhkeXMudmlwfHhkeXMudmlweGR5cy52aXA="
+},
+{
+    "key": "兄弟☪",
+    "name": "💮兄弟☪影視",
     "type": 3,
-    "api": "csp_App",
-    "ext": "KhYJ00ye42lrgMpNiF+rOvz59ga1R1FQv2eU9xm2Iu1VrOOAQhMKd/5Ef8cogkk0Y3RJ20zdTsh6uytEQhi5H+x3q9ykk86fAlKxZsD4JSOVC5vqBIHXLUdbmRnBIXWxcZBIXFtvDsnRlRrdhe15op6nVQPj3jTftN2v9+IDRS2auZS8W1hoOL2jvcoiUEzLToN7FV14amT6puaPWMkj34WXPOALOvIkDM57pLfeccPg9oZFJOvob2S7NE55hsAbY0y7l63JB0ukoDmLq9q4YRSh/M6i0i8XMVk8bLFggs+R73Ld+p5bipdnmmrRg3qMu5dVCFuyfllyKl0ZJddNw4AFQExqghU1xo0RpCm1FgL+FmBLMdYCxM+fNYaF6blwRnzcfPct0XtmXoB9"
+    "api": "csp_AppGetApp",
+    "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+sENTEbHAsgpQRtycD7pjvPePZ1AgNT8ZuBCcf4lIM858OSMK4u76tpjIfqzVA=="
+},
+{
+    "key": "星星☪",
+    "name": "💮星星☪影視",
+    "type": 3,
+    "api": "csp_AppZX",
+    "ext": "KhY021WelCEl+6MsvwnzaLK5slLrVkVKpWWFo0f0XrIG4I/KFx5RJf8ee99ij0p6UXFSzynUUoQn+CMLXQSrHrks8dKtjc6OXESxcMCKZWCfIZLnBIHXbQkKgwbMN1ancbdBF0wmVANCCrQQTm2Nd1Q68RP63nGTicCesKtoaOomHl8T0c2P6T1te5WMsJkNyDa8tsgx5q0uDyR6+QqFAx0l92nhDqQ8"
+},
+{
+    "key": "米米☪",
+    "name": "💮米米☪影視",
+    "type": 3,
+    "api": "csp_AppZX",
+    "ext": "KhY021WelCEl+6MsvwnzaLK5sg6yEQRc8CLY+R2wReBS99eCRx9APeYSJ5VWzBI5XnVfjFiTSsduqSYOWQC3AqI3+tLwmZ/aT2z/PZuRbHjEUNX8RMiGfg8bkgTbOVjmN6hVB1V3ZE4DTbUbATLmIUci/wOblS2T54u1dxfP2owIfTg1nKSiYD1ndF3VotBmw5u8hM7jpJZ3Ugcaqy/mTj7oMr8="
+},
+{
+    "key": "云云☪",
+    "name": "💮云云☪影視",
+    "type": 3,
+    "api": "csp_AppLma",
+    "ext": "KhY021WelCEl+6MsvwnzaPusskyiDwxc/zHc8gWyReBS+prQb0FAAvlCb5Uoj4LihPmHGDbnCYo/risaDE3tISvdDENCSVt4yNkc/84/jK0C1mB7qQzP6tbIGNAuvYFQ5GG9wtLMcQNCCr0aUEOhalQ68ReunWqH5JzX96l/BDfD/4KyVQlAKaurrptTFwKIRcQ7DU0yNCOv0eHPd48jyYXnc/YzNv9jY54k0unLa6z06bdWLsj4G0aNHwcp3IxydlT/taKaA0S27Tmdq7nkMyq26a39g1MHcVEvL6x7xZmF+nOYuZBIiIxzh36dj2ues4Nt2ukFtac="
 },
 {
     "key": "酷酷影视",
     "name": "💮酷酷☪影視",
     "type": 3,
     "api": "csp_App",
+    "jar":"https://git.acwing.com/999/tvbox/-/raw/main/JAR/spider1160.jar",
     "ext": "KhYJ00ye42lr+7UsoxLsfea0p0H5SUkT7Tv/+ACyPvFQ+ozQDB0SI/NCeN59w0RiNzIKjBHQR9I/4GBIAlWmFKcvyM+yqtiPTwaxfs74YG+PHrb7VfKDLVFb0luKJl2gZ5pIVjIwVQNUCt5TAXutZxNBtlKGin+L/4vCsOIjR2r16dqyQwlpOKySq4NGGkKeA48tTxR+emOxn/qGPt5xjInFeLJXMvYxdp47pOKOA4Oj4LJnJ+ezEzScDoT2IASN0Rvl2ZneGEGkqlDU8NquYUP/svq1zScEYCpobKdg0ILB7Hba+5cMwtlnjGiHyCaM9dx+z+cVzD9cSTo/aL5gSoAPT4QzkFxezSARli9nVDmnS0MrY/NhiexS8AE+1et9"
 },
 {
@@ -308,13 +396,11 @@
     "filterable": 1
 },
 {
-     "key": "奇优影视",
+    "key": "奇优影视",
     "name": "💮奇优☪影視",
     "type": 3,
     "api": "csp_Qiyou",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
+    "jar":"https://git.acwing.com/999/tvbox/-/raw/main/JAR/spider1160.jar"
 },
 {
     "key": "韩小圈",
@@ -330,9 +416,7 @@
     "name": "💮追剧☪影視",
     "type": 3,
     "api": "csp_AppZJ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
+    "jar":"https://git.acwing.com/999/tvbox/-/raw/main/JAR/spider1160.jar"
 },
 {
     "key": "忍者影视",
@@ -416,22 +500,11 @@
     "filterable": 1
 },
 {
-    "key": "哔嘀影视",
-    "name": "💮哔嘀☪影視",
-    "type": 3,
-    "api": "csp_WebYJ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
     "key": "疯狗影视",
     "name": "💮疯狗☪影視",
     "type": 3,
     "api": "csp_FengGo",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
+    "jar":"https://git.acwing.com/999/tvbox/-/raw/main/JAR/spider1160.jar"
 },
 {
     "key": "小苹果",
@@ -466,15 +539,7 @@
     "name": "💮全网☪影视",
     "type": 3,
     "api": "csp_Quanwk",
-    "jar":"https://git.acwing.com/999/tvbox/-/raw/main/JAR/spider1129.txt",
     "ext": "https://www.91qkw.com"
-},
-{
-    "key": "大米星球",
-    "name": "💮大米☪影視",
-    "type": 3,
-    "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
-    "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/APPV2.js?type=url&params=https://damifan.wiki"
 },
 {
     "key": "可可影视",
@@ -562,14 +627,14 @@
     "key": "米兔[资]",
     "name": "💝米兔☪弹幕",
     "type": 3,
-    "api":"https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext":"http://43.242.202.173:6688/tvbox/js/gyi.php?key=147258369&id=米兔[资]"
 },
 {
     "key": "caihua2",
-    "name": "💝采花☪苹果",
+    "name": "💝苹果☪弹幕",
     "type": 3,
-    "api":"https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext":"http://43.242.202.173:6688/tvbox/js/gyi.php?key=147258369&id=苹果"
 },
 {
@@ -992,7 +1057,7 @@
 },
 {
     "key":"网盘",
-    "name": "🇨🇳┣☪配✿置┫【更新时间:11.26】",
+    "name": "🇨🇳┣☪配✿置┫【更新时间:12.04】",
     "type": 3,
     "api": "csp_Config",
     "jar":"https://git.acwing.com/999/tvbox/-/raw/main/JAR/pg.jar",
