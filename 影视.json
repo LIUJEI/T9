@@ -66,6 +66,19 @@
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/企鹅体育.py"
 },
 {
+    "key": "追剧",
+    "name": "追剧☪直连",
+    "type": 3,
+    "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+    "ext": "http://43.242.202.173:6688/tvbox/js/gyi.php?key=147258369&id=追剧"
+},
+{
+      "key": "360kan",
+      "name": "360☪直连",
+      "type": 3,
+      "api": "https://yyrj.fun/js/360.js"
+},
+{
     "key": "nm",
     "name": "农民☪直连",
     "type": 3,
@@ -560,6 +573,48 @@
     "style":{ "type": "rect","ratio": 1.433}
 },
 {
+    "key":"dr_腾迅",
+    "name":"💝騰訊🐧TV",
+    "type":3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/QQtv.js"
+},
+{
+    "key":"dr_芒果",
+    "name":"💝芒果🥭TV",
+    "type":3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/MGtv.js"
+},
+{
+    "key":"dr_奇异",
+    "name":"💝奇藝🥝TV",
+    "type":3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/AQItv.js"
+},
+{
+    "key":"dr_优酷",
+    "name":"💝優酷🧃TV",
+    "type":3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
+},
+{
+    "key":"dr_搜狗",
+    "name":"💝搜狗🦊TV",
+    "type":3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/SGtv.js"
+},
+{
+    "key": "三六零弹幕",
+    "name": "💝叁陸🌈TV",
+    "type": 3,
+    "api": "csp_Sp360",
+    "ext": {"danmu": true}
+},
+{
     "key": "探探",
     "name": "💝影探☪弹幕",
     "type": 3,
@@ -637,54 +692,6 @@
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext":"http://43.242.202.173:6688/tvbox/js/gyi.php?key=147258369&id=苹果"
 },
-{
-    "key": "三六零弹幕",
-    "name": "💝叁陸☪弹幕",
-    "type": 3,
-    "api": "csp_Sp360",
-    "ext": {"danmu": true}
-},
-{
-    "key":"dr_腾迅",
-    "name":"💝騰訊☪弹幕",
-    "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/QQtv.js",
-    "danmu": true
-},
-{
-    "key":"dr_芒果",
-    "name":"💝芒果☪弹幕",
-    "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/MGtv.js",
-    "danmu": true
-},
-{
-    "key":"dr_奇异",
-    "name":"💝奇藝☪弹幕",
-    "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/AQItv.js",
-    "danmu": true
-},
-{
-    "key":"dr_优酷",
-    "name":"💝優酷☪弹幕",
-    "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js",
-    "danmu": true
-},
-{
-    "key":"dr_搜狗",
-    "name":"💝搜狗☪弹幕",
-    "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/SGtv.js",
-    "danmu": true
-},
-
 {
     "key": "糯米弹幕",
     "name": "💝糯米☪弹幕",
@@ -778,15 +785,15 @@
     "danmu": true}
 },
 {
-    "key": "夸克云星弹幕",
-    "name": "💝云星☪4K弹幕",
+    "key": "4K弹幕",
+    "name": "💝肥猫☪4K弹幕",
     "type": 3,
     "api": "csp_Wobg",
     "ext": {
     "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
     "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-    "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-    "site": "https://4k.4u4.cn",
+    "uc_cookie": "http://43.242.202.173:6688/tvbox/uc.txt",
+    "site": "http://feimaouc.cloud:666",
     "danmu": true}
 },
 {
@@ -1057,7 +1064,7 @@
 },
 {
     "key":"网盘",
-    "name": "🇨🇳┣☪配✿置┫【更新时间:12.04】",
+    "name": "🇨🇳┣☪配✿置┫【更新时间:12.06】",
     "type": 3,
     "api": "csp_Config",
     "jar":"https://git.acwing.com/999/tvbox/-/raw/main/JAR/pg.jar",
