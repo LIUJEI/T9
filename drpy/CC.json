@@ -8,7 +8,10 @@
       "name": "📁林中小屋📁",
       "url": "https://8815.kstore.space/Monster.json"
     },
-
+    {
+        "url": "http://175.178.251.183:6689/tv.txt",
+        "name": "📁懒人📁"
+    },
     {
       "url": "https://d.kstore.dev/download/9877/FourD/api.json",
       "name": "📁潇洒📁"
@@ -62,9 +65,9 @@
       "name": "📁蜗牛📁"
     },
     {
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/qgys/qgys/main/11.json",
-      "name": "📁强哥📁"
-    },	
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
+      "name": "📁月光📁"
+    },
     {
       "url": "https://ghproxy.cn/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
       "name": "📁宝盒📁"
