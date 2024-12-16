@@ -22,7 +22,7 @@
     "key": "布蕾",
     "name": "影視🆘布蕾",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/bulei.js"
 },	
 {
@@ -36,28 +36,28 @@
     "key": "xiaoxiongjs",
     "name": "影視🆘小熊",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/小熊弹幕.js"
 },
 {
     "key": "jurenjs",
     "name": "影視🆘巨人",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/巨人弹幕.js"
 },
 {
     "key": "ceslllk",
     "name": "影視🆘虎斑",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/小虎斑弹幕.js"
 },
 {
     "key": "hipy_js_111tv",
     "name": "影視🆘山妖",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/111tv[自动].js"
 },
 {
