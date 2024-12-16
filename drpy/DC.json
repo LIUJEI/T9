@@ -7,6 +7,22 @@
   {"name": "🚸《测试采集》","url": "https://git.acwing.com/999/tvbox/-/raw/main/采集.json"},
   {"name": "🚸《测试JS 》","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/T9/master/JS.json"},
   {"name": "🚸《测试休闲》","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/T9/master/休闲.json"},
-  {"name": "🚸《测试短剧》","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/T9/master/短剧.json"}
+  {"name": "🚸《测试短剧》","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/T9/master/短剧.json"},
+  {
+      "name": "🚸《网盘直连影视》",
+      "url": "https://12194.kstore.space/影视.txt"
+    },
+    {
+      "name": "🚸《网盘直连魔盒》",
+      "url": "https://12194.kstore.space/魔盒.txt"
+    },
+    {
+      "name": "🚸《网盘直连音乐》",
+      "url": "https://12194.kstore.space/音乐.txt"
+    },
+    {
+      "name": "🚸《网盘直连休闲》",
+      "url": "https://12194.kstore.space/休闲.txt"
+    }
 ]
 }
