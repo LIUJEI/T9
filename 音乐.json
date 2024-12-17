@@ -1,244 +1,294 @@
 {
-  
-  "spider": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/Bili.jar",
-  "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
-  "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
-
-"sites":[
-{
-    "key":"music",
-    "name": "🎬酷狗🎵音乐",
-    "type": 3,
-    "api":"csp_Music",
-    "searchable":0,
-    "changeable":0,
-    "style":{"type":"rect","ratio":1.433}
-},
-{
-    "key": "csp_哔哩MV",
-    "name": "🎬哔哩🎵音乐",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/Bili音乐.json"
-},
-{
-    "key":"drpy_js_酷狗MV",
-    "name":"🎸酷狗🎵MV",
-    "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext":"https://12194.kstore.space/TV/酷狗MV.js"
-},
-{
-    "key":"drpy_js_酷奇MV",
-    "name":"🎸酷奇🎵MV",
-    "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext":"https://12194.kstore.space/TV/酷奇MV.js"
-},
-{
-    "key": "hipy_js_KTV歌厅[听]",
-    "name": "🎸歌厅🎵MV",
-    "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "https://12194.kstore.space/TV/KTV歌厅.js"
-},
-{  
-    "key": "da_ry",
-    "name": "🎸歌手🎵MV",
-    "type": 4,
-    "api": "http://120.53.102.254/dsp/",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1       
-},
-{
-    "key": "hipy_js_种子音乐[听]",
-    "name": "🎧种子┃音乐",
-    "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "https://12194.kstore.space/TV/种子音乐[听].js"
-},
-{
-  "key": "hipy_js_gequ",
-  "name": "🎧音乐┃合集MV",
-  "type": 3,
-  "api": "http://zb.hys.cool/app/lib/16万hys.js",
-  "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TV/mv.js"
-},
-
-{"key":"T4-qingting","name":"🅱️音乐-蜻蜓(T4)","type":4,"api":"https://catbox.n13.club/t4/qingting.php"},
-
-{"key":"djmv","name":"🅱️音乐-DJMV(T4)","type":4,"api":"https://catbox.n13.club/t4/djmv.php"},
-
-{"key":"T4-tangdou","name":"🅱️音乐-糖豆(T4)","type":4,"api":"https://catbox.n13.club/t4/tangdou.php"},
-
-{"key":"T4-djuu","name":"🅱️音乐-DJUU(T4)","type":4,"api":"https://catbox.n13.club/t4/djuu.php"},
-
-{"key":"T4-Bliych","name":"🅱️B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=Bliych"},
-
-{"key":"T4-bmtv","name":"🅱️B站-MTV(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=bMTV"},
-
-{
-    "key":"drpy_js_广播迷FM",
-    "name":"📻┃播迷┃FM",
-    "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext":"https://12194.kstore.space/TV/广播迷FM.js"
-},
-{
-    "key":"drpy_js_蜻蜓FM",
-    "name":"📻┃蜻蜓┃FM",
-    "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext":"https://12194.kstore.space/TV/蜻蜓FM.js"
-},
-{
-    "key":"drpy_js_喜马拉雅",
-    "name":"🎧听书┃喜马拉雅",
-    "type":3,
-    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/喜马拉雅.js"
-},
-{
-    "key":"drpy_js_有声小说",
-    "name":"🎧听书 | 有声小说",
-    "type":3,
-    "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/lib/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/js/有声小说吧.js"
-},
-{
-    "key": "10",
-    "name": "📛┣☪全✿局┫【更新时间:2024】",
-    "api": "1",
-    "type": 3
-},
-{
-    "key":"本地",
-    "name": "📛┣☪琉✿芸┫【更新时间:12.06】",
-    "type":3,
-    "api":"csp_LocalFile"
-}],
-
-"parses":[
-{
-    "name": "🌐聚合",
-    "type": 3,
-    "url": "Demo"
-},
-{
-    "name": "★琉芸推荐★",
-    "type": 0,
-    "url": "https://jx.xmflv.com/?url="
-},
-{
-    "name": "★巴拉解析★",
-    "type": 1,
-    "url": "https://jxjson.icu/neibu.php?url="
-},
-{
-    "name": "☪XGJ解析㊐",
-    "type": "1",
-    "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url="
-},    
-{
-    "name": "☪夜幕㊎",
-    "type": 0,
-    "url": "https://www.yemu.xyz/?url="
-},
-{
-    "name": "☪盘古㊍",
-    "type": 0,
-    "url": "https://www.pangujiexi.com/pangu/?url="
-},
-{
-    "name": "☪猫咪㊌",
-    "type": 0,
-    "url": "https://www.ckplayer.vip/jiexi/?url="
-},
-{
-    "name": "☪图图㊋",
-    "type": 0,
-    "url": "https://jx.m3u8.tv/jiexi/?url="
-},
-{
-    "name": "☪冰豆㊏",
-    "type": 0,
-    "url": "https://bd.jx.cn/?url="
-},
-{
-    "name":"☪あぎ@",
-    "type":0,
-    "url":"https://www.playm3u8.cn/jiexi.php?url="
-},
-{
-    "name":"☪全民㊣",
-    "type":0,
-    "url":"http://api.wpsseo.cn/?v="
-}, 
-{
-    "name": "虾米2",
-    "url": "https://jx.xmflv.cc/?url="
-},
-{
-    "name": "巧记",
-    "type": 1,
-    "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="   
-},   
-{
-    "name": "ik9",
-    "url": "https://yparse.ik9.cc/index.php?url=",
-    "type": 0
-},
-{
-    "name": "阳途",
-    "url": "https://jx.yangtu.top/?url=",
-    "type": 0
-},
-{
-    "name": "听乐",
-    "url": "https://jx.dj6u.com/?url=",
-    "type": 0
-},
-{
-    "name": "云析",
-    "url": "https://jx.yparse.com/index.php?url=",
-    "type": 0
-},
-{
-    "name": "红狐",
-    "url": "https://player.mrgaocloud.com/player/?url=",
-    "type": 0
-
-},
-{
-    "name": "🏁琉芸★全能嗅探★",
-    "type": 0,
-    "url": "https://www.8090g.cn/jiexi/?url="
-}],
-
-"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
-
-"lives": [
-{
-	"group": "redirect",
-	"channels": [
-{
-	"name": "稳定github直播",
-	"urls": ["proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"]
-},
-{
-	"name": "华数2",
-	"urls": ["proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/华数2.m3u"]
-},
-{
-	"name": "杭州华数",
-	"urls": ["proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/杭州华数.m3u"]
-},
-{
-	"name": "云星日记直播",
-	"urls": ["proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"]
-},
-{
-	"name": "本地嗅探器直播",
-	"urls": ["proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"]}
-]}]}
+  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar",
+  "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
+  "warningText": "tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
+  "sites": [
+    {
+      "key": "csp_哔哩MV",
+      "name": "🎬哔哩🎵音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "ext": "https://12194.kstore.space/Lib/Bili音乐.json"
+    },
+    {
+      "key": "music",
+      "name": "🎬酷狗🎵音乐",
+      "type": 3,
+      "api": "csp_Kugou",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
+    {
+      "key": "drpy_js_酷狗MV",
+      "name": "🎸酷狗🎵MV",
+      "type": 3,
+      "api": "https://weixine.net/js/lib/drpy2.min.js",
+      "ext": "https://12194.kstore.space/TV/酷狗MV.js"
+    },
+    {
+      "key": "drpy_js_酷奇MV",
+      "name": "🎸酷奇🎵MV",
+      "type": 3,
+      "api": "https://weixine.net/js/lib/drpy2.min.js",
+      "ext": "https://12194.kstore.space/TV/酷奇MV.js"
+    },
+    //{"key": "hipy_js_KTV歌厅[听]","name": "🎸歌厅🎵MV","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://12194.kstore.space/TV/KTV歌厅.js"},
+    {
+      "key": "hipy_IKTV",
+      "name": "🎸歌厅🎵MV",
+      "type": 3,
+      "api": "csp_WexIktv",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://gitee.com/woniuxs/four-d/raw/master/wex.txt"
+    },
+    {
+      "key": "da_ry",
+      "name": "🎸歌手🎵MV",
+      "type": 4,
+      "api": "http://120.53.102.254/dsp/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hipy_js_种子音乐[听]",
+      "name": "🎧种子┃音乐",
+      "type": 3,
+      "api": "https://weixine.net/js/lib/drpy2.min.js",
+      "ext": "https://12194.kstore.space/TV/种子音乐[听].js"
+    },
+    {
+      "key": "hipy_js_gequ",
+      "name": "🎧音乐┃合集MV",
+      "type": 3,
+      "api": "http://zb.hys.cool/app/lib/16万hys.js",
+      "ext": "http://zb.hys.cool/app/lib/16万mv.js"
+    },
+    {
+      "key": "T4-tangdou",
+      "name": "🅱️音乐-糖豆(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/tangdou.php"
+    },
+    {
+      "key": "T4-djuu",
+      "name": "🅱️音乐-DJUU(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/djuu.php"
+    },
+    {
+      "key": "Biliych",
+      "name": "🅱️音乐-演唱会MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "ext": {"json":"https://tv.xn--11x555b.top/EXT/biliych.json"},
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734381223246/fan.txt"
+    },
+    {
+      "key": "MTV",
+      "name": "🅱️B站-明星MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "ext": {"json":"https://tv.xn--11x555b.top/EXT/MTV.json"},
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734381223246/fan.txt"
+    },
+    {
+      "key": "drpy_js_广播迷FM",
+      "name": "📻┃播迷┃FM",
+      "type": 3,
+      "api": "https://weixine.net/js/lib/drpy2.min.js",
+      "ext": "https://12194.kstore.space/TV/广播迷FM.js"
+    },
+    {
+      "key": "drpy_js_蜻蜓FM",
+      "name": "📻┃蜻蜓┃FM",
+      "type": 3,
+      "api": "https://weixine.net/js/lib/drpy2.min.js",
+      "ext": "https://12194.kstore.space/TV/蜻蜓FM.js"
+    },
+    {
+      "key": "drpy_js_喜马拉雅",
+      "name": "🎧听书┃喜马拉雅",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/喜马拉雅.js"
+    },
+    {
+      "key": "有声小说js",
+      "name": "🎧听书┃有声小说",
+      "type": 3,
+      "api": "https://tv.xn--11x555b.top/EXT/drpy2.min.js",
+      "ext": "https://tv.xn--11x555b.top/EXT/有声小说吧.js"
+    },
+    {
+      "key": "10",
+      "name": "📛┣☪全✿局┫【更新时间:2024】",
+      "api": "1",
+      "type": 3
+    },
+    {
+      "key": "本地",
+      "name": "📛┣☪琉✿芸┫【更新时间:12.06】",
+      "type": 3,
+      "api": "csp_LocalFile"
+    }
+  ],
+  "parses": [
+    {
+      "name": "🌐聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "★琉芸推荐★",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "★巴拉解析★",
+      "type": 1,
+      "url": "https://jxjson.icu/neibu.php?url="
+    },
+    {
+      "name": "☪XGJ解析㊐",
+      "type": "1",
+      "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url="
+    },
+    {
+      "name": "☪夜幕㊎",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url="
+    },
+    {
+      "name": "☪盘古㊍",
+      "type": 0,
+      "url": "https://www.pangujiexi.com/pangu/?url="
+    },
+    {
+      "name": "☪猫咪㊌",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "☪图图㊋",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "☪冰豆㊏",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "☪あぎ@",
+      "type": 0,
+      "url": "https://www.playm3u8.cn/jiexi.php?url="
+    },
+    {
+      "name": "☪全民㊣",
+      "type": 0,
+      "url": "http://api.wpsseo.cn/?v="
+    },
+    {
+      "name": "虾米2",
+      "url": "https://jx.xmflv.cc/?url="
+    },
+    {
+      "name": "巧记",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+    },
+    {
+      "name": "ik9",
+      "url": "https://yparse.ik9.cc/index.php?url=",
+      "type": 0
+    },
+    {
+      "name": "阳途",
+      "url": "https://jx.yangtu.top/?url=",
+      "type": 0
+    },
+    {
+      "name": "听乐",
+      "url": "https://jx.dj6u.com/?url=",
+      "type": 0
+    },
+    {
+      "name": "云析",
+      "url": "https://jx.yparse.com/index.php?url=",
+      "type": 0
+    },
+    {
+      "name": "红狐",
+      "url": "https://player.mrgaocloud.com/player/?url=",
+      "type": 0
+    },
+    {
+      "name": "🏁琉芸★全能嗅探★",
+      "type": 0,
+      "url": "https://www.8090g.cn/jiexi/?url="
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "m1905",
+    "seven",
+    "m78"
+  ],
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "稳定github直播",
+          "urls": [
+            "proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
+          ]
+        },
+        {
+          "name": "华数2",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/华数2.m3u"
+          ]
+        },
+        {
+          "name": "杭州华数",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/杭州华数.m3u"
+          ]
+        },
+        {
+          "name": "云星日记直播",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"
+          ]
+        },
+        {
+          "name": "本地嗅探器直播",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"
+          ]
+        }
+      ]
+    }
+  ]
+}
