@@ -14,39 +14,35 @@
 
 "sites": [
 {
-  "key": "易看资源",
-  "name": "📛易看【2024/11/30】",
-  "type": 1,
-  "api": "https://api.yikanapi.com/api.php/provide/vod/",
-  "searchable": 1,
-  "quickSearch": 1
+  "key": "hipy_js_36直播",
+  "name": "📛TH┃直播",
+  "api": "https://weixine.net/js/lib/drpy2.min.js",
+  "ext": "https://12194.kstore.space/TV/A36直播.js"
 },   
 {
-  "key": "drpy_js_ikanbot3",
-  "name": "📛TH┃爱看写真",
-  "type": 1,
-  "api": "https://kkzy.me/api.php/provide/vod/",
-  "searchable": 1,
-  "recordable": 0,
-  "style": {"type": "rect","ratio": 1.33}
+  "key": "hipy_js_29片库",
+  "name": "📛TH┃片库",
+  "type": 3,
+  "api": "https://weixine.net/js/lib/drpy2.min.js",
+  "ext": "https://12194.kstore.space/TV/A9片库.js"
 },
 {
-  "key": "采集E(玉兔)",
+  "key": "采集E(熊猫)",
   "name": "撸铁🍅番茄",
-  "type": 1,
-  "api": "https://apiyutu.com/api.php/provide/vod/",
+  "type": 3,
+  "api": "csp_XMVideo",
   "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
+  "filterable": 1,
+  "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/%E5%AF%86spider.jar"
 },   
 {
-  "key": "大地采集",
+  "key": "drpy_c6(草溜)",
   "name": "撸铁🍓草莓",
-  "type": 0,
-  "api": "https://dadiapi.com/api.php",
+  "type": 3,
+  "api": "csp_CaoLiu",
   "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
+  "filterable": 1,
+  "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/%E5%AF%86spider.jar"
 },
 {
   "key": "采集F(老鸭)",
@@ -117,11 +113,12 @@
   "filterable": 0
 },
 {
-  "key": "dadiapi.com",
+  "key": "com-Sm",
   "name": "撸铁🍐雪梨",
-  "type": 0,"style":{ "type":"rect", "ratio":1.485 },
-  "api": "http://dadiapi.com/api.php",
-  "searchable": 1
+  "type": 0,
+  "api": "https://api.maozyapi.com/inc/api.php",
+  "searchable": 1,
+  "filterable": 1
 },
 {
   "key": "lbapiby.com",
@@ -174,13 +171,13 @@
    "changeable": 1
 },
 {
-   "key": "采集♥️(鸡坤)",
-   "name": "撸铁🍎苹果",
-   "type": 1,
-   "api": "https://jkunzyapi.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
+  "key": "采集♥️(-AIvin)",
+  "name": "撸铁🍎苹果",
+  "type": 0,
+  "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
 },
 {
    "key": "bttcj.com爱爱影院",
@@ -224,101 +221,7 @@
   "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
   "ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/番号资源[密].js"
 },
-{
-  "key": "hipy_js_36直播[密]",
-  "name": "36直播",
-  "type": 3,
-  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-  "order_num": 0,
-  "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/36直播[密].js"
-},
-{
-  "key": "hipy_js_29片库[密]",
-  "name": "29片库",
-  "type": 3,
-  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-  "order_num": 0,
-  "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/29片库[密].js"
-},
-{
-      "key": "XMVideo",
-      "name": "🔞呱哥-熊猫",
-      "type": 3,
-      "api": "csp_XMVideo",
-      "searchable": 1,
-      "filterable": 1,
-      "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/%E5%AF%86spider.jar"
-    },
-    {
-      "key": "c6",
-      "name": "🔞呱哥-草溜",
-      "type": 3,
-      "api": "csp_CaoLiu",
-      "searchable": 1,
-      "filterable": 1,
-      "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/%E5%AF%86spider.jar"
-    },
-    {
-      "key": "🔞呱哥-Sm",
-      "name": "🔞呱哥-Sm",
-      "type": 0,
-      "api": "https://api.maozyapi.com/inc/api.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "🔞呱哥-AIvin",
-      "name": "🔞呱哥-AIvin",
-      "type": 0,
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "🔞呱哥-伦理",
-      "name": "🔞呱哥-伦理",
-      "type": 1,
-      "api": "https://api.yikanapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "🔞呱哥-小鸭",
-      "name": "🔞呱哥-小鸭",
-      "type": 0,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "🔞呱哥-小地",
-      "name": "🔞呱哥-小地",
-      "type": 0,
-      "api": "https://dadiapi.com/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "🔞呱哥-小美",
-      "name": "🔞呱哥-小美",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "🔞呱哥-小水",
-      "name": "🔞呱哥-小水",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "🔞呱哥-小香",
       "name": "🔞呱哥-小香",
