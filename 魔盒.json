@@ -1341,6 +1341,40 @@
     "分类":"国产动漫$1#日本动漫$2#欧美动漫$47#海外动漫$3#动漫电影$4" }
 },
 {
+    "key": "hipy_js_蓝莓短剧",
+    "name": "♨️藍莓☪短劇",
+    "type": 3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "./TV/lanmei.js"
+},
+{
+    "key": "hipy_js_星芽短剧",
+    "name": "♨️星芽☪短劇",
+    "type": 3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "./TV/xingya.js"
+},
+{
+    "key": "csp_短剧网",
+    "name": "♨️全网☪短剧",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "./Lib/短剧网.json"
+},
+{
+    "key": "csp_河马短剧",
+    "name": "♨️河马☪短剧",
+    "type": 3,
+    "api": "csp_XYQHiker",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "./Lib/河马短剧.json"
+},
+{
     "key": "py_cctv",
     "name": "💫cctv┃综合 ",
     "type": 3,
@@ -1348,7 +1382,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://12194.kstore.space/Lib/py_cctv.py"
+    "ext": "./Lib/py_cctv.py"
 },
 {
    "key": "m1905",
@@ -1358,7 +1392,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://12194.kstore.space/Lib/m1905.py"
+    "ext": "./Lib/m1905.py"
 },
 {
     "key":"cctv",
@@ -1366,7 +1400,7 @@
     "type":3,
     "api":"csp_CCTV",
     "jar":"https://git.acwing.com/999/tvbox/-/raw/main/JAR/荷.jar",
-    "ext":"https://12194.kstore.space/Lib/央视大全.py"
+    "ext":"./Lib/央视大全.py"
 },
 {
     "key":"py_cctv_企鹅",
@@ -1376,7 +1410,7 @@
     "searchable":0,
     "quickSearch":0,
     "filterable":1,
-    "ext":"https://12194.kstore.space/Lib/企鹅体育.py"
+    "ext":"./Lib/企鹅体育.py"
 },
 {
     "key": "华为吧克隆",
@@ -1435,10 +1469,10 @@
 },
 {
   "key": "hipy_js_酷狗",
-  "name": "🎸酷狗┃MV",
+  "name": "🎸酷奇┃MV",
   "type": 3,
   "api": "https://weixine.net/js/lib/drpy2.min.js",
-  "ext": "https://12194.kstore.space/TV/酷狗MV.js"
+  "ext": "./TV/酷奇MV.js"
 }, 
 {
     "key":"csp_music",
@@ -1447,105 +1481,91 @@
     "api":"csp_Kugou",
     "playerType":2,
     "ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]},
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "csp_Bili短剧",
     "name": "🅱️短剧┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/Bili短剧.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./Lib/Bili短剧.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "MV",
     "name": "🅱️歌曲┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/Bili音乐.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
-},
-{
-    "key": "2400部恐怖电影📲",
-    "name": "📲电影┃影视",
-    "type": 3,
-    "api": "http://zb.hys.cool/app/lib/16万hys.js",
-    "ext": "http://zb.hys.cool/app/lib/2400部恐怖电影.js"
-},
-{
-    "key": "十六万MV听歌📣",
-    "name": "📣听歌┃歌曲",
-    "type": 3,
-    "api": "http://zb.hys.cool/app/lib/16万hys.js",
-    "ext": "http://zb.hys.cool/app/lib/16万mv.js"
+    "ext": "./Lib/Bili音乐.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key":  "少儿",
     "name": "🅰️少儿┃合集",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/少儿合集.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./Lib/少儿合集.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "小学课堂",
     "name": "🅰️小学┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/小学课堂.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./Lib/小学课堂.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "初中课堂",
     "name": "🅰️初中┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/初中课堂.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./Lib/初中课堂.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key":  "高中课堂",
     "name": "🅰️高中┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/高中课堂.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./Lib/高中课堂.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "小灯塔科学",
     "name":"🌏科学┃小灯塔",
     "type":3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/小灯塔科学.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./Lib/小灯塔科学.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "小灯塔地理",
     "name":"🌏地理┃小灯塔",
     "type":3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/小灯塔地理.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./Lib/小灯塔地理.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "小灯塔百科",
     "name":"🌏百科┃小灯塔",
     "type":3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/小灯塔百科.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./Lib/小灯塔百科.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "小灯塔国学",
     "name":"🌏国学┃小灯塔",
     "type":3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/小灯塔国学.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./Lib/小灯塔国学.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "csp_Netfixtv",
-    "name": "💯至臻☪4K弹幕",
+    "name": "网盘至臻☪4K弹幕",
     "type": 3,
     "api": "csp_Duopan",
     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar",
@@ -1560,15 +1580,18 @@
 },
 {
     "key": "csp_玩偶",
-    "name": "💯玩偶☪4K弹幕",
+    "name": "网盘玩偶☪4K弹幕",
     "type": 3,
-    "api": "csp_WoGG",
-    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt",
+    "api": "csp_Wogg",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
     "ext": {
-    "Cloud-drive": "tvfan/Cloud-drive.txt",
-    "from": "4k|auto",
-    "siteUrl": "https://www.wogg.net/",
-    "danMu": "弹"}
+    "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+    "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+    "wogg": true,
+    "danmu": true}
 },
 {
     "key": "ConfigCenter",
@@ -1749,5 +1772,6 @@
     {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
     {"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
     "ads":["43.248.128.138"]}
+
 
 
